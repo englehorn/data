@@ -861,35 +861,35 @@
 "RouteAlert": [
 {
 "AlertFullText": "<p>Vehicle reservations for travel on the San Juan Islands and Port Townsend/Coupeville routes during the next few months open this morning. Reservations for travel between March 27 and June 18 will be available at 7 a.m. PST on Thursday, March 10. Customers can <a href=\"https://wsdot.com/ferries/schedule/default.aspx\">view the upcoming sailing schedules</a> for that time in advance of booking their travel Thursday morning.</p>\n<p>Reservations can be made online at <a href=\"http://www.takeaferry.com/\">www.takeaferry.com</a> or by calling 206-464-6400 and speaking with an Information Agent.</p>",
-"PublishDate": "2022-03-10 05:00 AM",
+"PublishDate": "2022-03-10 05:00",
 "AlertDescription": "Vehicle Reservations for SJs and PT/Coup Open Today at 7AM - March 10. Spring Season Runs Mar. 27 to June 18. ",
 "AlertFullTitle": "Vehicle Reservations for SJs and PT/Coup Open Today - March 10",
 "BulletinID": 69334
 },
 {
 "AlertFullText": "<p>Washington State Ferries is operating on alternate schedules on most routes until further notice. These changes will help offer more predictable and reliable service systemwide in the face of crewing shortages due to a global shortage of mariners that has been worsened by the pandemic. WSF will attempt to add service when possible, and will provide notifications when full service can temporarily be restored to a route.</p>\n<p>For Thursday, March 10, the following routes are operating on alternate schedules:</p>\n<ul>\n<li><a href=\"https://www.wsdot.com/ferries/schedule/scheduledetailbyroute.aspx?schedrouteid=2082&amp;route=muk-cl\">Mukilteo/Clinton Alternate Service</a> </li>\n<li><a href=\"https://www.wsdot.com/ferries/schedule/scheduledetailbyroute.aspx?route=sea-br\">Seattle/Bremerton Alternate Service</a></li>\n<li><a href=\"https://wsdot.com/Ferries/Schedule/scheduledetailbyroute.aspx?route=f-v-s\">2-Boat Fauntleroy/Vashon</a>,<a href=\"https://wsdot.com/Ferries/Schedule/scheduledetailbyroute.aspx?route=f-s\"> 2-Boat Fauntleroy / Southworth</a><a href=\"https://wsdot.com/Ferries/Schedule/scheduledetailbyroute.aspx?route=f-v-s\"></a>, <a href=\"https://wsdot.com/Ferries/Schedule/scheduledetailbyroute.aspx?route=s-v\">2-boat Southworth/Vashon</a></li>\n</ul>\n<p>The following routes are running the regular winter schedules:</p>\n<ul>\n<li><a href=\"https://wsdot.com/Ferries/Schedule/scheduledetailbyroute.aspx?schedrouteid=2070&amp;route=ana-sj-sid\">Anacortes/San Juan Islands</a>: Reservations available</li>\n<li><a href=\"https://wsdot.com/Ferries/Schedule/scheduledetailbyroute.aspx?route=pt-key\">Port Townsend/Coupeville</a>: Reservations available</li>\n<li><a href=\"https://www.wsdot.com/ferries/schedule/scheduledetailbyroute.aspx?route=ed-king\">Edmonds / Kingston Schedule</a>  - Two-boat service begins with 8:40am from Kingston</li>\n<li><a href=\"https://wsdot.com/Ferries/Schedule/scheduledetailbyroute.aspx?route=sea-bi\">Seattle/Bainbridge Island</a></li>\n<li><a href=\"https://wsdot.com/Ferries/Schedule/scheduledetailbyroute.aspx?route=pd-tal\">Point Defiance/Tahlequah</a></li>\n</ul>\n<p>The <a href=\"https://www.wsdot.com/ferries/schedule/default.aspx\">schedule page online</a> shows the currently active schedules in the top section, and the inactive schedules are below.  Please note that the active schedules may change daily depending on crew availability, so please be sure to monitor email alerts and check the <a href=\"https://www.wsdot.com/ferries/schedule/bulletin.aspx\">Travel Alert Bulletins</a> page for updates. </p>",
-"PublishDate": "2022-03-10 01:05 PM",
+"PublishDate": "2022-03-10 12:05",
 "AlertDescription": "WSF Alternate Schedule Update for Thursday, March 10. See bulletin for details: https://wsdot.com/ferries/schedule/bulletin.aspx",
 "AlertFullTitle": "WSF Alternate Schedule Update for Thursday, March 10",
 "BulletinID": 69338
 },
 {
 "AlertFullText": "<p>The start of the Spring sailing schedule for the Anacortes/San Juan Islands and Port Townsend/Coupeville routes will be postponed by two weeks and it will now begin on Sunday, April 10. The delay will ensure reliable service through the San Juan Islands while contending with continued crewing challenges.</p>\n<p>Vehicle reservations for the two added weeks of the current season on both the San Juan Islands and Port Townsend/Coupeville routes will be released at 7 a.m. on Thursday, March 10. Reservations for the upcoming Spring season for travel on both routes between April 10 and June 18 will also be released on March 10.</p>",
-"PublishDate": "2022-03-10 04:55 AM",
+"PublishDate": "2022-03-10 14:55",
 "AlertDescription": "Spring Schedule for Ana/SJs & PT/Coup Routes: Postponed to Sunday, April 10.",
 "AlertFullTitle": "Spring Schedule for Ana/SJs & PT/Coup Routes: Postponed to Sunday, April 10",
 "BulletinID": 66757
 },
 {
 "AlertFullText": "<p>Face masks are now required only in indoor areas of our terminals and vessels for all riders and employees in <a href=\"https://www.cdc.gov/coronavirus/2019-ncov/travelers/face-masks-public-transportation.html\">compliance with the latest CDC guidelines</a>. All customers inside terminals or vessels should continue to wear face coverings. However, passengers can remove their masks while outdoors on the sun deck, car deck areas of the vessel, outside waiting areas at terminals and other outdoor locations. Please remember to mask up upon reentering interior areas of boats and terminals.</p>",
-"PublishDate": "2022-02-19 04:28 PM",
+"PublishDate": "2022-02-19 14:28",
 "AlertDescription": "Masks Required Only in Indoor Areas of Terminals and Vessels",
 "AlertFullTitle": "Masks Required Only in Indoor Areas of Terminals and Vessels",
 "BulletinID": 49914
 },
 {
 "AlertFullText": "<p>The vehicle reservation site is currently experiencing significant slowdowns due to high volumes. Customers attempting to make a reservation for the upcoming sailing schedule are welcome to continue trying to secure their reservations now or try again later today when traffic volumes and website speeds improve.</p>",
-"PublishDate": "2022-03-10 08:44 AM",
+"PublishDate": "2022-03-10 18:44",
 "AlertDescription": "Vehicle Reservation Site Experiencing Slowdowns Due to High Traffic Volumes",
 "AlertFullTitle": "Vehicle Reservation Site Experiencing Slowdowns Due to High Traffic Volumes",
 "BulletinID": 69343
