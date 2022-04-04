@@ -9,7 +9,7 @@
 "BulletinID": 70684,
 "AlertDescription": "WSF Alternate Schedule Update for Monday, April 4. See bulletin for details: https://wsdot.com/ferries/schedule/bulletin.aspx",
 "AlertFullTitle": "WSF Alternate Schedule Update for Monday, April 4",
-"PublishDate": "2022-04-04 11:52 AM"
+"PublishDate": "2022-04-05 11:52 AM"
 },
 {
 "AlertFullText": "<p>Washington State Ferries is actively working to bring service to pre-pandemic levels. While that won’t happen overnight, staff have developed a plan that outlines how to get there. Customers are encouraged to take a <a href=\"https://wsdot.wa.gov/sites/default/files/2022-03/WSF-COVID19-ServiceRestorationPlan.pdf\">look at WSF’s COVID-19 Service Restoration Plan</a> to get a clearer picture of what challenges the agency continues to face and what it will take to resume pre-pandemic service. WSF will provide regular updates on progress as it continues to restore service.</p>\n<p>Please note a previous alert had an incorrect link.</p>",
@@ -23,7 +23,7 @@
 "BulletinID": 70605,
 "AlertDescription": "All Routes: Share Your Ferry Feedback Through Online Survey",
 "AlertFullTitle": "Share Your Ferry Feedback Through Online Survey",
-"PublishDate": "2022-04-04 04:40 AM"
+"PublishDate": "2022-04-05 04:40 AM"
 },
 {
 "AlertFullText": "<p>The passenger elevator on the #4 inter-island vessel Tillikum is temporarily out of service for maintenance and repairs. Updates on a repair status will be provided when more information becomes available. We apologize for the inconvenience.</p>",
@@ -62,40 +62,40 @@
 "Times": [
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 06:20 AM",
-"DepartingTime": "2022-04-04 05:30 AM"
+"ArrivingTime": "2022-04-05 06:20 AM",
+"DepartingTime": "2022-04-05 05:30 AM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 07:10 AM",
-"DepartingTime": "2022-04-04 06:20 AM"
+"ArrivingTime": "2022-04-05 07:10 AM",
+"DepartingTime": "2022-04-05 06:20 AM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 10:05 AM",
-"DepartingTime": "2022-04-04 09:25 AM"
+"ArrivingTime": "2022-04-05 10:05 AM",
+"DepartingTime": "2022-04-05 09:25 AM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 11:10 AM",
-"DepartingTime": "2022-04-04 10:20 AM"
+"ArrivingTime": "2022-04-05 11:10 AM",
+"DepartingTime": "2022-04-05 10:20 AM"
 },
 {
 "AnnotationIndexes": [
 0
 ],
-"ArrivingTime": "2022-04-04 03:55 PM",
-"DepartingTime": "2022-04-04 03:05 PM"
+"ArrivingTime": "2022-04-05 03:55 PM",
+"DepartingTime": "2022-04-05 03:05 PM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 06:00 PM",
-"DepartingTime": "2022-04-04 05:20 PM"
+"ArrivingTime": "2022-04-05 06:00 PM",
+"DepartingTime": "2022-04-05 05:20 PM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 09:50 PM",
-"DepartingTime": "2022-04-04 09:05 PM"
+"ArrivingTime": "2022-04-05 09:50 PM",
+"DepartingTime": "2022-04-05 09:05 PM"
 }
 ]
 },
@@ -110,35 +110,35 @@
 "Times": [
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 07:15 AM",
-"DepartingTime": "2022-04-04 05:30 AM"
+"ArrivingTime": "2022-04-05 07:15 AM",
+"DepartingTime": "2022-04-05 05:30 AM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 09:10 AM",
-"DepartingTime": "2022-04-04 07:40 AM"
+"ArrivingTime": "2022-04-05 09:10 AM",
+"DepartingTime": "2022-04-05 07:40 AM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 12:20 PM",
-"DepartingTime": "2022-04-04 11:20 AM"
+"ArrivingTime": "2022-04-05 12:20 PM",
+"DepartingTime": "2022-04-05 11:20 AM"
 },
 {
 "AnnotationIndexes": [
 0
 ],
-"ArrivingTime": "2022-04-04 04:15 PM",
-"DepartingTime": "2022-04-04 03:05 PM"
+"ArrivingTime": "2022-04-05 04:15 PM",
+"DepartingTime": "2022-04-05 03:05 PM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 08:00 PM",
-"DepartingTime": "2022-04-04 07:10 PM"
+"ArrivingTime": "2022-04-05 08:00 PM",
+"DepartingTime": "2022-04-05 07:10 PM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 10:05 PM",
-"DepartingTime": "2022-04-04 09:05 PM"
+"ArrivingTime": "2022-04-05 10:05 PM",
+"DepartingTime": "2022-04-05 09:05 PM"
 }
 ]
 },
@@ -153,35 +153,35 @@
 "Times": [
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 06:35 AM",
-"DepartingTime": "2022-04-04 05:30 AM"
+"ArrivingTime": "2022-04-05 06:35 AM",
+"DepartingTime": "2022-04-05 05:30 AM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 08:30 AM",
-"DepartingTime": "2022-04-04 07:40 AM"
+"ArrivingTime": "2022-04-05 08:30 AM",
+"DepartingTime": "2022-04-05 07:40 AM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 12:30 PM",
-"DepartingTime": "2022-04-04 11:20 AM"
+"ArrivingTime": "2022-04-05 12:30 PM",
+"DepartingTime": "2022-04-05 11:20 AM"
 },
 {
 "AnnotationIndexes": [
 0
 ],
-"ArrivingTime": "2022-04-04 04:25 PM",
-"DepartingTime": "2022-04-04 03:05 PM"
+"ArrivingTime": "2022-04-05 04:25 PM",
+"DepartingTime": "2022-04-05 03:05 PM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 08:10 PM",
-"DepartingTime": "2022-04-04 07:10 PM"
+"ArrivingTime": "2022-04-05 08:10 PM",
+"DepartingTime": "2022-04-05 07:10 PM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 10:25 PM",
-"DepartingTime": "2022-04-04 09:05 PM"
+"ArrivingTime": "2022-04-05 10:25 PM",
+"DepartingTime": "2022-04-05 09:05 PM"
 }
 ]
 },
@@ -194,38 +194,38 @@
 "Times": [
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 05:35 AM",
-"DepartingTime": "2022-04-04 04:30 AM"
+"ArrivingTime": "2022-04-05 05:35 AM",
+"DepartingTime": "2022-04-05 04:30 AM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 07:40 AM",
-"DepartingTime": "2022-04-04 06:20 AM"
+"ArrivingTime": "2022-04-05 07:40 AM",
+"DepartingTime": "2022-04-05 06:20 AM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 10:00 AM",
-"DepartingTime": "2022-04-04 08:55 AM"
+"ArrivingTime": "2022-04-05 10:00 AM",
+"DepartingTime": "2022-04-05 08:55 AM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 11:40 AM",
-"DepartingTime": "2022-04-04 10:20 AM"
+"ArrivingTime": "2022-04-05 11:40 AM",
+"DepartingTime": "2022-04-05 10:20 AM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 03:15 PM",
-"DepartingTime": "2022-04-04 02:10 PM"
+"ArrivingTime": "2022-04-05 03:15 PM",
+"DepartingTime": "2022-04-05 02:10 PM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 07:05 PM",
-"DepartingTime": "2022-04-04 06:00 PM"
+"ArrivingTime": "2022-04-05 07:05 PM",
+"DepartingTime": "2022-04-05 06:00 PM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 11:05 PM",
-"DepartingTime": "2022-04-04 09:05 PM"
+"ArrivingTime": "2022-04-05 11:05 PM",
+"DepartingTime": "2022-04-05 09:05 PM"
 }
 ]
 },
@@ -238,28 +238,28 @@
 "Times": [
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 07:15 AM",
-"DepartingTime": "2022-04-04 06:20 AM"
+"ArrivingTime": "2022-04-05 07:15 AM",
+"DepartingTime": "2022-04-05 06:20 AM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 10:15 AM",
-"DepartingTime": "2022-04-04 09:55 AM"
+"ArrivingTime": "2022-04-05 10:15 AM",
+"DepartingTime": "2022-04-05 09:55 AM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 03:55 PM",
-"DepartingTime": "2022-04-04 03:35 PM"
+"ArrivingTime": "2022-04-05 03:55 PM",
+"DepartingTime": "2022-04-05 03:35 PM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 04:15 PM",
-"DepartingTime": "2022-04-04 03:55 PM"
+"ArrivingTime": "2022-04-05 04:15 PM",
+"DepartingTime": "2022-04-05 03:55 PM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 10:05 PM",
-"DepartingTime": "2022-04-04 09:50 PM"
+"ArrivingTime": "2022-04-05 10:05 PM",
+"DepartingTime": "2022-04-05 09:50 PM"
 }
 ]
 },
@@ -272,28 +272,28 @@
 "Times": [
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 06:35 AM",
-"DepartingTime": "2022-04-04 06:20 AM"
+"ArrivingTime": "2022-04-05 06:35 AM",
+"DepartingTime": "2022-04-05 06:20 AM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 10:35 AM",
-"DepartingTime": "2022-04-04 09:55 AM"
+"ArrivingTime": "2022-04-05 10:35 AM",
+"DepartingTime": "2022-04-05 09:55 AM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 04:15 PM",
-"DepartingTime": "2022-04-04 03:35 PM"
+"ArrivingTime": "2022-04-05 04:15 PM",
+"DepartingTime": "2022-04-05 03:35 PM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 04:25 PM",
-"DepartingTime": "2022-04-04 03:55 PM"
+"ArrivingTime": "2022-04-05 04:25 PM",
+"DepartingTime": "2022-04-05 03:55 PM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 10:25 PM",
-"DepartingTime": "2022-04-04 09:50 PM"
+"ArrivingTime": "2022-04-05 10:25 PM",
+"DepartingTime": "2022-04-05 09:50 PM"
 }
 ]
 },
@@ -306,38 +306,38 @@
 "Times": [
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 07:40 AM",
-"DepartingTime": "2022-04-04 07:10 AM"
+"ArrivingTime": "2022-04-05 07:40 AM",
+"DepartingTime": "2022-04-05 07:10 AM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 11:15 AM",
-"DepartingTime": "2022-04-04 09:55 AM"
+"ArrivingTime": "2022-04-05 11:15 AM",
+"DepartingTime": "2022-04-05 09:55 AM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 11:40 AM",
-"DepartingTime": "2022-04-04 11:10 AM"
+"ArrivingTime": "2022-04-05 11:40 AM",
+"DepartingTime": "2022-04-05 11:10 AM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 01:45 PM",
-"DepartingTime": "2022-04-04 01:05 PM"
+"ArrivingTime": "2022-04-05 01:45 PM",
+"DepartingTime": "2022-04-05 01:05 PM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 04:55 PM",
-"DepartingTime": "2022-04-04 03:35 PM"
+"ArrivingTime": "2022-04-05 04:55 PM",
+"DepartingTime": "2022-04-05 03:35 PM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 07:40 PM",
-"DepartingTime": "2022-04-04 06:50 PM"
+"ArrivingTime": "2022-04-05 07:40 PM",
+"DepartingTime": "2022-04-05 06:50 PM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 11:05 PM",
-"DepartingTime": "2022-04-04 09:50 PM"
+"ArrivingTime": "2022-04-05 11:05 PM",
+"DepartingTime": "2022-04-05 09:50 PM"
 }
 ]
 },
@@ -350,38 +350,38 @@
 "Times": [
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 07:20 AM",
-"DepartingTime": "2022-04-04 07:00 AM"
+"ArrivingTime": "2022-04-05 07:20 AM",
+"DepartingTime": "2022-04-05 07:00 AM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 10:35 AM",
-"DepartingTime": "2022-04-04 10:15 AM"
+"ArrivingTime": "2022-04-05 10:35 AM",
+"DepartingTime": "2022-04-05 10:15 AM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 12:30 PM",
-"DepartingTime": "2022-04-04 12:20 PM"
+"ArrivingTime": "2022-04-05 12:30 PM",
+"DepartingTime": "2022-04-05 12:20 PM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 04:15 PM",
-"DepartingTime": "2022-04-04 03:55 PM"
+"ArrivingTime": "2022-04-05 04:15 PM",
+"DepartingTime": "2022-04-05 03:55 PM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 04:25 PM",
-"DepartingTime": "2022-04-04 04:15 PM"
+"ArrivingTime": "2022-04-05 04:25 PM",
+"DepartingTime": "2022-04-05 04:15 PM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 08:10 PM",
-"DepartingTime": "2022-04-04 08:00 PM"
+"ArrivingTime": "2022-04-05 08:10 PM",
+"DepartingTime": "2022-04-05 08:00 PM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 10:25 PM",
-"DepartingTime": "2022-04-04 10:05 PM"
+"ArrivingTime": "2022-04-05 10:25 PM",
+"DepartingTime": "2022-04-05 10:05 PM"
 }
 ]
 },
@@ -396,37 +396,37 @@
 "Times": [
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 08:10 AM",
-"DepartingTime": "2022-04-04 07:00 AM"
+"ArrivingTime": "2022-04-05 08:10 AM",
+"DepartingTime": "2022-04-05 07:00 AM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 11:15 AM",
-"DepartingTime": "2022-04-04 10:15 AM"
+"ArrivingTime": "2022-04-05 11:15 AM",
+"DepartingTime": "2022-04-05 10:15 AM"
 },
 {
 "AnnotationIndexes": [
 0
 ],
-"ArrivingTime": "2022-04-04 01:45 PM",
-"DepartingTime": "2022-04-04 12:40 PM"
+"ArrivingTime": "2022-04-05 01:45 PM",
+"DepartingTime": "2022-04-05 12:40 PM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 04:55 PM",
-"DepartingTime": "2022-04-04 03:55 PM"
+"ArrivingTime": "2022-04-05 04:55 PM",
+"DepartingTime": "2022-04-05 03:55 PM"
 },
 {
 "AnnotationIndexes": [
 0
 ],
-"ArrivingTime": "2022-04-04 07:40 PM",
-"DepartingTime": "2022-04-04 06:25 PM"
+"ArrivingTime": "2022-04-05 07:40 PM",
+"DepartingTime": "2022-04-05 06:25 PM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 11:05 PM",
-"DepartingTime": "2022-04-04 10:05 PM"
+"ArrivingTime": "2022-04-05 11:05 PM",
+"DepartingTime": "2022-04-05 10:05 PM"
 }
 ]
 },
@@ -441,37 +441,37 @@
 "Times": [
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 08:10 AM",
-"DepartingTime": "2022-04-04 07:20 AM"
+"ArrivingTime": "2022-04-05 08:10 AM",
+"DepartingTime": "2022-04-05 07:20 AM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 11:15 AM",
-"DepartingTime": "2022-04-04 10:35 AM"
+"ArrivingTime": "2022-04-05 11:15 AM",
+"DepartingTime": "2022-04-05 10:35 AM"
 },
 {
 "AnnotationIndexes": [
 0
 ],
-"ArrivingTime": "2022-04-04 01:45 PM",
-"DepartingTime": "2022-04-04 12:25 PM"
+"ArrivingTime": "2022-04-05 01:45 PM",
+"DepartingTime": "2022-04-05 12:25 PM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 04:55 PM",
-"DepartingTime": "2022-04-04 04:15 PM"
+"ArrivingTime": "2022-04-05 04:55 PM",
+"DepartingTime": "2022-04-05 04:15 PM"
 },
 {
 "AnnotationIndexes": [
 0
 ],
-"ArrivingTime": "2022-04-04 07:40 PM",
-"DepartingTime": "2022-04-04 06:10 PM"
+"ArrivingTime": "2022-04-05 07:40 PM",
+"DepartingTime": "2022-04-05 06:10 PM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 11:05 PM",
-"DepartingTime": "2022-04-04 10:25 PM"
+"ArrivingTime": "2022-04-05 11:05 PM",
+"DepartingTime": "2022-04-05 10:25 PM"
 }
 ]
 },
@@ -484,28 +484,28 @@
 "Times": [
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 07:20 AM",
-"DepartingTime": "2022-04-04 06:10 AM"
+"ArrivingTime": "2022-04-05 07:20 AM",
+"DepartingTime": "2022-04-05 06:10 AM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 09:15 AM",
-"DepartingTime": "2022-04-04 08:25 AM"
+"ArrivingTime": "2022-04-05 09:15 AM",
+"DepartingTime": "2022-04-05 08:25 AM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 12:25 PM",
-"DepartingTime": "2022-04-04 11:30 AM"
+"ArrivingTime": "2022-04-05 12:25 PM",
+"DepartingTime": "2022-04-05 11:30 AM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 02:55 PM",
-"DepartingTime": "2022-04-04 02:05 PM"
+"ArrivingTime": "2022-04-05 02:55 PM",
+"DepartingTime": "2022-04-05 02:05 PM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 06:10 PM",
-"DepartingTime": "2022-04-04 05:25 PM"
+"ArrivingTime": "2022-04-05 06:10 PM",
+"DepartingTime": "2022-04-05 05:25 PM"
 }
 ]
 },
@@ -518,28 +518,28 @@
 "Times": [
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 06:55 AM",
-"DepartingTime": "2022-04-04 06:10 AM"
+"ArrivingTime": "2022-04-05 06:55 AM",
+"DepartingTime": "2022-04-05 06:10 AM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 09:30 AM",
-"DepartingTime": "2022-04-04 08:25 AM"
+"ArrivingTime": "2022-04-05 09:30 AM",
+"DepartingTime": "2022-04-05 08:25 AM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 12:40 PM",
-"DepartingTime": "2022-04-04 11:30 AM"
+"ArrivingTime": "2022-04-05 12:40 PM",
+"DepartingTime": "2022-04-05 11:30 AM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 03:10 PM",
-"DepartingTime": "2022-04-04 02:05 PM"
+"ArrivingTime": "2022-04-05 03:10 PM",
+"DepartingTime": "2022-04-05 02:05 PM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 06:25 PM",
-"DepartingTime": "2022-04-04 05:25 PM"
+"ArrivingTime": "2022-04-05 06:25 PM",
+"DepartingTime": "2022-04-05 05:25 PM"
 }
 ]
 },
@@ -552,43 +552,43 @@
 "Times": [
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 06:40 AM",
-"DepartingTime": "2022-04-04 05:55 AM"
+"ArrivingTime": "2022-04-05 06:40 AM",
+"DepartingTime": "2022-04-05 05:55 AM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 09:50 AM",
-"DepartingTime": "2022-04-04 08:25 AM"
+"ArrivingTime": "2022-04-05 09:50 AM",
+"DepartingTime": "2022-04-05 08:25 AM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 01:00 PM",
-"DepartingTime": "2022-04-04 11:30 AM"
+"ArrivingTime": "2022-04-05 01:00 PM",
+"DepartingTime": "2022-04-05 11:30 AM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 12:55 PM",
-"DepartingTime": "2022-04-04 12:10 PM"
+"ArrivingTime": "2022-04-05 12:55 PM",
+"DepartingTime": "2022-04-05 12:10 PM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 03:30 PM",
-"DepartingTime": "2022-04-04 02:05 PM"
+"ArrivingTime": "2022-04-05 03:30 PM",
+"DepartingTime": "2022-04-05 02:05 PM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 04:20 PM",
-"DepartingTime": "2022-04-04 03:40 PM"
+"ArrivingTime": "2022-04-05 04:20 PM",
+"DepartingTime": "2022-04-05 03:40 PM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 06:45 PM",
-"DepartingTime": "2022-04-04 05:25 PM"
+"ArrivingTime": "2022-04-05 06:45 PM",
+"DepartingTime": "2022-04-05 05:25 PM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 08:10 PM",
-"DepartingTime": "2022-04-04 07:30 PM"
+"ArrivingTime": "2022-04-05 08:10 PM",
+"DepartingTime": "2022-04-05 07:30 PM"
 }
 ]
 },
@@ -601,38 +601,38 @@
 "Times": [
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 07:20 AM",
-"DepartingTime": "2022-04-04 05:55 AM"
+"ArrivingTime": "2022-04-05 07:20 AM",
+"DepartingTime": "2022-04-05 05:55 AM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 09:10 AM",
-"DepartingTime": "2022-04-04 08:05 AM"
+"ArrivingTime": "2022-04-05 09:10 AM",
+"DepartingTime": "2022-04-05 08:05 AM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 11:35 AM",
-"DepartingTime": "2022-04-04 10:30 AM"
+"ArrivingTime": "2022-04-05 11:35 AM",
+"DepartingTime": "2022-04-05 10:30 AM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 01:35 PM",
-"DepartingTime": "2022-04-04 12:10 PM"
+"ArrivingTime": "2022-04-05 01:35 PM",
+"DepartingTime": "2022-04-05 12:10 PM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 05:00 PM",
-"DepartingTime": "2022-04-04 03:40 PM"
+"ArrivingTime": "2022-04-05 05:00 PM",
+"DepartingTime": "2022-04-05 03:40 PM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 08:50 PM",
-"DepartingTime": "2022-04-04 07:30 PM"
+"ArrivingTime": "2022-04-05 08:50 PM",
+"DepartingTime": "2022-04-05 07:30 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": "2022-04-05 12:20 AM",
-"DepartingTime": "2022-04-04 11:15 PM"
+"DepartingTime": "2022-04-05 11:15 PM"
 }
 ]
 },
@@ -647,35 +647,35 @@
 "Times": [
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 07:15 AM",
-"DepartingTime": "2022-04-04 07:00 AM"
+"ArrivingTime": "2022-04-05 07:15 AM",
+"DepartingTime": "2022-04-05 07:00 AM"
 },
 {
 "AnnotationIndexes": [
 0
 ],
-"ArrivingTime": "2022-04-04 09:10 AM",
-"DepartingTime": "2022-04-04 08:55 AM"
+"ArrivingTime": "2022-04-05 09:10 AM",
+"DepartingTime": "2022-04-05 08:55 AM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 09:30 AM",
-"DepartingTime": "2022-04-04 09:15 AM"
+"ArrivingTime": "2022-04-05 09:30 AM",
+"DepartingTime": "2022-04-05 09:15 AM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 12:40 PM",
-"DepartingTime": "2022-04-04 12:25 PM"
+"ArrivingTime": "2022-04-05 12:40 PM",
+"DepartingTime": "2022-04-05 12:25 PM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 03:10 PM",
-"DepartingTime": "2022-04-04 02:55 PM"
+"ArrivingTime": "2022-04-05 03:10 PM",
+"DepartingTime": "2022-04-05 02:55 PM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 06:25 PM",
-"DepartingTime": "2022-04-04 06:10 PM"
+"ArrivingTime": "2022-04-05 06:25 PM",
+"DepartingTime": "2022-04-05 06:10 PM"
 }
 ]
 },
@@ -688,33 +688,33 @@
 "Times": [
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 07:45 AM",
-"DepartingTime": "2022-04-04 07:00 AM"
+"ArrivingTime": "2022-04-05 07:45 AM",
+"DepartingTime": "2022-04-05 07:00 AM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 09:50 AM",
-"DepartingTime": "2022-04-04 09:15 AM"
+"ArrivingTime": "2022-04-05 09:50 AM",
+"DepartingTime": "2022-04-05 09:15 AM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 01:00 PM",
-"DepartingTime": "2022-04-04 12:25 PM"
+"ArrivingTime": "2022-04-05 01:00 PM",
+"DepartingTime": "2022-04-05 12:25 PM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 03:30 PM",
-"DepartingTime": "2022-04-04 02:55 PM"
+"ArrivingTime": "2022-04-05 03:30 PM",
+"DepartingTime": "2022-04-05 02:55 PM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 06:45 PM",
-"DepartingTime": "2022-04-04 06:10 PM"
+"ArrivingTime": "2022-04-05 06:45 PM",
+"DepartingTime": "2022-04-05 06:10 PM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 08:50 PM",
-"DepartingTime": "2022-04-04 08:25 PM"
+"ArrivingTime": "2022-04-05 08:50 PM",
+"DepartingTime": "2022-04-05 08:25 PM"
 }
 ]
 },
@@ -730,37 +730,37 @@
 "Times": [
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 08:25 AM",
-"DepartingTime": "2022-04-04 07:00 AM"
+"ArrivingTime": "2022-04-05 08:25 AM",
+"DepartingTime": "2022-04-05 07:00 AM"
 },
 {
 "AnnotationIndexes": [
 0
 ],
-"ArrivingTime": "2022-04-04 10:00 AM",
-"DepartingTime": "2022-04-04 08:55 AM"
+"ArrivingTime": "2022-04-05 10:00 AM",
+"DepartingTime": "2022-04-05 08:55 AM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 01:45 PM",
-"DepartingTime": "2022-04-04 12:55 PM"
+"ArrivingTime": "2022-04-05 01:45 PM",
+"DepartingTime": "2022-04-05 12:55 PM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 05:40 PM",
-"DepartingTime": "2022-04-04 04:50 PM"
+"ArrivingTime": "2022-04-05 05:40 PM",
+"DepartingTime": "2022-04-05 04:50 PM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 09:30 PM",
-"DepartingTime": "2022-04-04 08:25 PM"
+"ArrivingTime": "2022-04-05 09:30 PM",
+"DepartingTime": "2022-04-05 08:25 PM"
 },
 {
 "AnnotationIndexes": [
 1
 ],
 "ArrivingTime": "2022-04-05 12:20 AM",
-"DepartingTime": "2022-04-04 10:25 PM"
+"DepartingTime": "2022-04-05 10:25 PM"
 }
 ]
 },
@@ -775,35 +775,35 @@
 "Times": [
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 07:45 AM",
-"DepartingTime": "2022-04-04 07:15 AM"
+"ArrivingTime": "2022-04-05 07:45 AM",
+"DepartingTime": "2022-04-05 07:15 AM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 09:50 AM",
-"DepartingTime": "2022-04-04 09:30 AM"
+"ArrivingTime": "2022-04-05 09:50 AM",
+"DepartingTime": "2022-04-05 09:30 AM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 01:00 PM",
-"DepartingTime": "2022-04-04 12:40 PM"
+"ArrivingTime": "2022-04-05 01:00 PM",
+"DepartingTime": "2022-04-05 12:40 PM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 03:30 PM",
-"DepartingTime": "2022-04-04 03:10 PM"
+"ArrivingTime": "2022-04-05 03:30 PM",
+"DepartingTime": "2022-04-05 03:10 PM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 06:45 PM",
-"DepartingTime": "2022-04-04 06:25 PM"
+"ArrivingTime": "2022-04-05 06:45 PM",
+"DepartingTime": "2022-04-05 06:25 PM"
 },
 {
 "AnnotationIndexes": [
 0
 ],
-"ArrivingTime": "2022-04-04 08:50 PM",
-"DepartingTime": "2022-04-04 08:00 PM"
+"ArrivingTime": "2022-04-05 08:50 PM",
+"DepartingTime": "2022-04-05 08:00 PM"
 }
 ]
 },
@@ -818,34 +818,34 @@
 "Times": [
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 08:25 AM",
-"DepartingTime": "2022-04-04 07:15 AM"
+"ArrivingTime": "2022-04-05 08:25 AM",
+"DepartingTime": "2022-04-05 07:15 AM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 10:00 AM",
-"DepartingTime": "2022-04-04 09:10 AM"
+"ArrivingTime": "2022-04-05 10:00 AM",
+"DepartingTime": "2022-04-05 09:10 AM"
 },
 {
 "AnnotationIndexes": [
 0
 ],
-"ArrivingTime": "2022-04-04 01:45 PM",
-"DepartingTime": "2022-04-04 12:20 PM"
+"ArrivingTime": "2022-04-05 01:45 PM",
+"DepartingTime": "2022-04-05 12:20 PM"
 },
 {
 "AnnotationIndexes": [
 0
 ],
-"ArrivingTime": "2022-04-04 05:40 PM",
-"DepartingTime": "2022-04-04 04:15 PM"
+"ArrivingTime": "2022-04-05 05:40 PM",
+"DepartingTime": "2022-04-05 04:15 PM"
 },
 {
 "AnnotationIndexes": [
 0
 ],
-"ArrivingTime": "2022-04-04 09:30 PM",
-"DepartingTime": "2022-04-04 08:00 PM"
+"ArrivingTime": "2022-04-05 09:30 PM",
+"DepartingTime": "2022-04-05 08:00 PM"
 }
 ]
 },
@@ -858,48 +858,48 @@
 "Times": [
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 07:20 AM",
-"DepartingTime": "2022-04-04 06:40 AM"
+"ArrivingTime": "2022-04-05 07:20 AM",
+"DepartingTime": "2022-04-05 06:40 AM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 08:25 AM",
-"DepartingTime": "2022-04-04 07:45 AM"
+"ArrivingTime": "2022-04-05 08:25 AM",
+"DepartingTime": "2022-04-05 07:45 AM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 11:00 AM",
-"DepartingTime": "2022-04-04 10:20 AM"
+"ArrivingTime": "2022-04-05 11:00 AM",
+"DepartingTime": "2022-04-05 10:20 AM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 01:35 PM",
-"DepartingTime": "2022-04-04 12:55 PM"
+"ArrivingTime": "2022-04-05 01:35 PM",
+"DepartingTime": "2022-04-05 12:55 PM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 05:00 PM",
-"DepartingTime": "2022-04-04 04:20 PM"
+"ArrivingTime": "2022-04-05 05:00 PM",
+"DepartingTime": "2022-04-05 04:20 PM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 06:50 PM",
-"DepartingTime": "2022-04-04 06:10 PM"
+"ArrivingTime": "2022-04-05 06:50 PM",
+"DepartingTime": "2022-04-05 06:10 PM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 08:50 PM",
-"DepartingTime": "2022-04-04 08:10 PM"
+"ArrivingTime": "2022-04-05 08:50 PM",
+"DepartingTime": "2022-04-05 08:10 PM"
 },
 {
 "AnnotationIndexes": [],
-"ArrivingTime": "2022-04-04 09:30 PM",
-"DepartingTime": "2022-04-04 08:50 PM"
+"ArrivingTime": "2022-04-05 09:30 PM",
+"DepartingTime": "2022-04-05 08:50 PM"
 }
 ]
 }
 ],
-"Date": "2022-04-04"
+"Date": "2022-04-05"
 }
 ]
 },
@@ -913,7 +913,7 @@
 "BulletinID": 70684,
 "AlertDescription": "WSF Alternate Schedule Update for Monday, April 4. See bulletin for details: https://wsdot.com/ferries/schedule/bulletin.aspx",
 "AlertFullTitle": "WSF Alternate Schedule Update for Monday, April 4",
-"PublishDate": "2022-04-04 11:52 AM"
+"PublishDate": "2022-04-05 11:52 AM"
 },
 {
 "AlertFullText": "<p>Washington State Ferries is actively working to bring service to pre-pandemic levels. While that won’t happen overnight, staff have developed a plan that outlines how to get there. Customers are encouraged to take a <a href=\"https://wsdot.wa.gov/sites/default/files/2022-03/WSF-COVID19-ServiceRestorationPlan.pdf\">look at WSF’s COVID-19 Service Restoration Plan</a> to get a clearer picture of what challenges the agency continues to face and what it will take to resume pre-pandemic service. WSF will provide regular updates on progress as it continues to restore service.</p>\n<p>Please note a previous alert had an incorrect link.</p>",
@@ -927,14 +927,14 @@
 "BulletinID": 70696,
 "AlertDescription": "Edm/King - Additional Service to Begin at 1:30 p.m. from Kingston",
 "AlertFullTitle": "Edm/King - Additional Service to Begin at 1:30 p.m. from Kingston",
-"PublishDate": "2022-04-04 12:08 PM"
+"PublishDate": "2022-04-05 12:08 PM"
 },
 {
 "AlertFullText": "<p>Customers are encouraged to participate in the current Ferry Riders Opinion Group survey to share their thoughts on all things WSF. The survey is hosted by the Washington State Transportation Commission and helps WSF hear feedback and suggestions directly from customers and constituents.</p>\n<p>Those looking to participate can either <a href=\"https://pacificmarketresearch.opinioninsight.com/portal/community_1_1_1.php\">sign up to join the survey panel</a> to ensure you’re included in this and all future surveys, or you can just take the current <a href=\"https://selfserve.decipherinc.com/survey/selfserve/5d8/220310#?\">survey that is available online</a> without signing up to receive future surveys. This current survey will be available through April 18.</p>",
 "BulletinID": 70605,
 "AlertDescription": "All Routes: Share Your Ferry Feedback Through Online Survey",
 "AlertFullTitle": "Share Your Ferry Feedback Through Online Survey",
-"PublishDate": "2022-04-04 04:40 AM"
+"PublishDate": "2022-04-05 04:40 AM"
 },
 {
 "AlertFullText": "<p>The passenger elevator on the M/V Spokane is temporarily out of service for maintenance and repairs. Passengers may contact the crew to use the freight elevator. Updates on a repair status will be provided when more information becomes available. We apologize for the inconvenience.</p>",
@@ -955,7 +955,7 @@
 "BulletinID": 70695,
 "AlertDescription": "Edm/King - Additional Service to Begin at 1:30 p.m. from Kingston",
 "AlertFullTitle": "Edm/King - Additional Service to Begin at 1:30 p.m. from Kingston",
-"PublishDate": "2022-04-04 11:48 AM"
+"PublishDate": "2022-04-05 11:48 AM"
 }
 ],
 "Description": "Edmonds / Kingston",
@@ -972,117 +972,117 @@
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 05:35 AM"
+"DepartingTime": "2022-04-05 05:35 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 06:10 AM"
+"DepartingTime": "2022-04-05 06:10 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 07:10 AM"
+"DepartingTime": "2022-04-05 07:10 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 07:55 AM"
+"DepartingTime": "2022-04-05 07:55 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 08:50 AM"
+"DepartingTime": "2022-04-05 08:50 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 09:35 AM"
+"DepartingTime": "2022-04-05 09:35 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 10:20 AM"
+"DepartingTime": "2022-04-05 10:20 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 11:05 AM"
+"DepartingTime": "2022-04-05 11:05 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 11:55 AM"
+"DepartingTime": "2022-04-05 11:55 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 12:40 PM"
+"DepartingTime": "2022-04-05 12:40 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 01:35 PM"
+"DepartingTime": "2022-04-05 01:35 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 02:25 PM"
+"DepartingTime": "2022-04-05 02:25 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 03:15 PM"
+"DepartingTime": "2022-04-05 03:15 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 03:55 PM"
+"DepartingTime": "2022-04-05 03:55 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 04:45 PM"
+"DepartingTime": "2022-04-05 04:45 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 05:25 PM"
+"DepartingTime": "2022-04-05 05:25 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 06:15 PM"
+"DepartingTime": "2022-04-05 06:15 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 07:00 PM"
+"DepartingTime": "2022-04-05 07:00 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 07:40 PM"
+"DepartingTime": "2022-04-05 07:40 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 08:30 PM"
+"DepartingTime": "2022-04-05 08:30 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 09:05 PM"
+"DepartingTime": "2022-04-05 09:05 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 10:25 PM"
+"DepartingTime": "2022-04-05 10:25 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 11:45 PM"
+"DepartingTime": "2022-04-05 11:45 PM"
 }
 ]
 },
@@ -1096,122 +1096,122 @@
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 04:45 AM"
+"DepartingTime": "2022-04-05 04:45 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 05:30 AM"
+"DepartingTime": "2022-04-05 05:30 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 06:25 AM"
+"DepartingTime": "2022-04-05 06:25 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 07:00 AM"
+"DepartingTime": "2022-04-05 07:00 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 07:55 AM"
+"DepartingTime": "2022-04-05 07:55 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 08:40 AM"
+"DepartingTime": "2022-04-05 08:40 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 09:35 AM"
+"DepartingTime": "2022-04-05 09:35 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 10:20 AM"
+"DepartingTime": "2022-04-05 10:20 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 11:05 AM"
+"DepartingTime": "2022-04-05 11:05 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 11:55 AM"
+"DepartingTime": "2022-04-05 11:55 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 12:45 PM"
+"DepartingTime": "2022-04-05 12:45 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 01:30 PM"
+"DepartingTime": "2022-04-05 01:30 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 02:30 PM"
+"DepartingTime": "2022-04-05 02:30 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 03:10 PM"
+"DepartingTime": "2022-04-05 03:10 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 04:00 PM"
+"DepartingTime": "2022-04-05 04:00 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 04:40 PM"
+"DepartingTime": "2022-04-05 04:40 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 05:30 PM"
+"DepartingTime": "2022-04-05 05:30 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 06:10 PM"
+"DepartingTime": "2022-04-05 06:10 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 07:00 PM"
+"DepartingTime": "2022-04-05 07:00 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 07:45 PM"
+"DepartingTime": "2022-04-05 07:45 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 08:20 PM"
+"DepartingTime": "2022-04-05 08:20 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 09:40 PM"
+"DepartingTime": "2022-04-05 09:40 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 11:10 PM"
+"DepartingTime": "2022-04-05 11:10 PM"
 }
 ]
 }
 ],
-"Date": "2022-04-04"
+"Date": "2022-04-05"
 }
 ]
 },
@@ -1225,7 +1225,7 @@
 "BulletinID": 70684,
 "AlertDescription": "WSF Alternate Schedule Update for Monday, April 4. See bulletin for details: https://wsdot.com/ferries/schedule/bulletin.aspx",
 "AlertFullTitle": "WSF Alternate Schedule Update for Monday, April 4",
-"PublishDate": "2022-04-04 11:52 AM"
+"PublishDate": "2022-04-05 11:52 AM"
 },
 {
 "AlertFullText": "<p>Washington State Ferries is actively working to bring service to pre-pandemic levels. While that won’t happen overnight, staff have developed a plan that outlines how to get there. Customers are encouraged to take a <a href=\"https://wsdot.wa.gov/sites/default/files/2022-03/WSF-COVID19-ServiceRestorationPlan.pdf\">look at WSF’s COVID-19 Service Restoration Plan</a> to get a clearer picture of what challenges the agency continues to face and what it will take to resume pre-pandemic service. WSF will provide regular updates on progress as it continues to restore service.</p>\n<p>Please note a previous alert had an incorrect link.</p>",
@@ -1239,21 +1239,21 @@
 "BulletinID": 70697,
 "AlertDescription": "There is an estimated 1 hr. wait for vehicle traffic departing the Point Defiance terminal. ",
 "AlertFullTitle": "PD/Tah-Point Defiance Terminal Status: One Hour Wait for Vehicles",
-"PublishDate": "2022-04-04 12:25 PM"
+"PublishDate": "2022-04-05 12:25 PM"
 },
 {
 "AlertFullText": "<p>The Fauntleroy/Vashon/Southworth  route  will return to service  beginning with the 1:15 p.m.  departure from Fauntleroy to Vashon.</p>\n<ul>\n<li><a href=\"https://wsdot.com/ferries/schedule/scheduledetailbyroute.aspx?route=f-s\">2-Boat Fauntleroy / Southworth</a></li>\n<li><a href=\"https://wsdot.com/ferries/schedule/scheduledetailbyroute.aspx?route=f-v-s\">2-Boat Fauntleroy / Vashon</a></li>\n<li><a href=\"https://wsdot.com/ferries/schedule/scheduledetailbyroute.aspx?route=s-v\">2-Boat Southworth / Vashon</a></li>\n</ul>",
 "BulletinID": 70700,
 "AlertDescription": "The Fauntleroy/Vashon/Southworth  route  will return to service  beginning with the 1:15 p.m. departure from Fauntleroy. \r\n\r\n",
 "AlertFullTitle": "Faunt/VA/SW- Update: Fauntleroy Terminal Open for Service at 1:15 p.m.",
-"PublishDate": "2022-04-04 12:54 PM"
+"PublishDate": "2022-04-05 12:54 PM"
 },
 {
 "AlertFullText": "<p>Customers are encouraged to participate in the current Ferry Riders Opinion Group survey to share their thoughts on all things WSF. The survey is hosted by the Washington State Transportation Commission and helps WSF hear feedback and suggestions directly from customers and constituents.</p>\n<p>Those looking to participate can either <a href=\"https://pacificmarketresearch.opinioninsight.com/portal/community_1_1_1.php\">sign up to join the survey panel</a> to ensure you’re included in this and all future surveys, or you can just take the current <a href=\"https://selfserve.decipherinc.com/survey/selfserve/5d8/220310#?\">survey that is available online</a> without signing up to receive future surveys. This current survey will be available through April 18.</p>",
 "BulletinID": 70605,
 "AlertDescription": "All Routes: Share Your Ferry Feedback Through Online Survey",
 "AlertFullTitle": "Share Your Ferry Feedback Through Online Survey",
-"PublishDate": "2022-04-04 04:40 AM"
+"PublishDate": "2022-04-05 04:40 AM"
 },
 {
 "AlertFullText": "<p>Due to necessary maintenance and repairs, the men's restrooms at the Southworth Terminal are temporarily closed and unavailable. Updates will be provided when more information regarding time of repairs become available. We apologize for any inconvenience.</p>",
@@ -1288,84 +1288,84 @@
 0
 ],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 04:25 AM"
+"DepartingTime": "2022-04-05 04:25 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 05:05 AM"
+"DepartingTime": "2022-04-05 05:05 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 05:50 AM"
+"DepartingTime": "2022-04-05 05:50 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 07:40 AM"
+"DepartingTime": "2022-04-05 07:40 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 09:10 AM"
+"DepartingTime": "2022-04-05 09:10 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 01:35 PM"
+"DepartingTime": "2022-04-05 01:35 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 02:10 PM"
+"DepartingTime": "2022-04-05 02:10 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 03:05 PM"
+"DepartingTime": "2022-04-05 03:05 PM"
 },
 {
 "AnnotationIndexes": [
 0
 ],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 03:50 PM"
+"DepartingTime": "2022-04-05 03:50 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 04:35 PM"
+"DepartingTime": "2022-04-05 04:35 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 05:15 PM"
+"DepartingTime": "2022-04-05 05:15 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 06:15 PM"
+"DepartingTime": "2022-04-05 06:15 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 06:35 PM"
+"DepartingTime": "2022-04-05 06:35 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 07:55 PM"
+"DepartingTime": "2022-04-05 07:55 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 10:35 PM"
+"DepartingTime": "2022-04-05 10:35 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 11:50 PM"
+"DepartingTime": "2022-04-05 11:50 PM"
 },
 {
 "AnnotationIndexes": [],
@@ -1390,103 +1390,103 @@
 0
 ],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 04:10 AM"
+"DepartingTime": "2022-04-05 04:10 AM"
 },
 {
 "AnnotationIndexes": [
 0
 ],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 05:00 AM"
+"DepartingTime": "2022-04-05 05:00 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 05:50 AM"
+"DepartingTime": "2022-04-05 05:50 AM"
 },
 {
 "AnnotationIndexes": [
 0
 ],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 06:40 AM"
+"DepartingTime": "2022-04-05 06:40 AM"
 },
 {
 "AnnotationIndexes": [
 0
 ],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 08:25 AM"
+"DepartingTime": "2022-04-05 08:25 AM"
 },
 {
 "AnnotationIndexes": [
 1
 ],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 02:20 PM"
+"DepartingTime": "2022-04-05 02:20 PM"
 },
 {
 "AnnotationIndexes": [
 2
 ],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 03:00 PM"
+"DepartingTime": "2022-04-05 03:00 PM"
 },
 {
 "AnnotationIndexes": [
 1
 ],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 03:55 PM"
+"DepartingTime": "2022-04-05 03:55 PM"
 },
 {
 "AnnotationIndexes": [
 2
 ],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 04:25 PM"
+"DepartingTime": "2022-04-05 04:25 PM"
 },
 {
 "AnnotationIndexes": [
 2
 ],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 05:20 PM"
+"DepartingTime": "2022-04-05 05:20 PM"
 },
 {
 "AnnotationIndexes": [
 1
 ],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 06:00 PM"
+"DepartingTime": "2022-04-05 06:00 PM"
 },
 {
 "AnnotationIndexes": [
 1
 ],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 07:00 PM"
+"DepartingTime": "2022-04-05 07:00 PM"
 },
 {
 "AnnotationIndexes": [
 1
 ],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 07:20 PM"
+"DepartingTime": "2022-04-05 07:20 PM"
 },
 {
 "AnnotationIndexes": [
 1
 ],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 08:35 PM"
+"DepartingTime": "2022-04-05 08:35 PM"
 },
 {
 "AnnotationIndexes": [
 1
 ],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 11:20 PM"
+"DepartingTime": "2022-04-05 11:20 PM"
 },
 {
 "AnnotationIndexes": [
@@ -1498,7 +1498,7 @@
 ]
 }
 ],
-"Date": "2022-04-04"
+"Date": "2022-04-05"
 }
 ]
 },
@@ -1512,7 +1512,7 @@
 "BulletinID": 70684,
 "AlertDescription": "WSF Alternate Schedule Update for Monday, April 4. See bulletin for details: https://wsdot.com/ferries/schedule/bulletin.aspx",
 "AlertFullTitle": "WSF Alternate Schedule Update for Monday, April 4",
-"PublishDate": "2022-04-04 11:52 AM"
+"PublishDate": "2022-04-05 11:52 AM"
 },
 {
 "AlertFullText": "<p>Washington State Ferries is actively working to bring service to pre-pandemic levels. While that won’t happen overnight, staff have developed a plan that outlines how to get there. Customers are encouraged to take a <a href=\"https://wsdot.wa.gov/sites/default/files/2022-03/WSF-COVID19-ServiceRestorationPlan.pdf\">look at WSF’s COVID-19 Service Restoration Plan</a> to get a clearer picture of what challenges the agency continues to face and what it will take to resume pre-pandemic service. WSF will provide regular updates on progress as it continues to restore service.</p>\n<p>Please note a previous alert had an incorrect link.</p>",
@@ -1526,21 +1526,21 @@
 "BulletinID": 70697,
 "AlertDescription": "There is an estimated 1 hr. wait for vehicle traffic departing the Point Defiance terminal. ",
 "AlertFullTitle": "PD/Tah-Point Defiance Terminal Status: One Hour Wait for Vehicles",
-"PublishDate": "2022-04-04 12:25 PM"
+"PublishDate": "2022-04-05 12:25 PM"
 },
 {
 "AlertFullText": "<p>The Fauntleroy/Vashon/Southworth  route  will return to service  beginning with the 1:15 p.m.  departure from Fauntleroy to Vashon.</p>\n<ul>\n<li><a href=\"https://wsdot.com/ferries/schedule/scheduledetailbyroute.aspx?route=f-s\">2-Boat Fauntleroy / Southworth</a></li>\n<li><a href=\"https://wsdot.com/ferries/schedule/scheduledetailbyroute.aspx?route=f-v-s\">2-Boat Fauntleroy / Vashon</a></li>\n<li><a href=\"https://wsdot.com/ferries/schedule/scheduledetailbyroute.aspx?route=s-v\">2-Boat Southworth / Vashon</a></li>\n</ul>",
 "BulletinID": 70700,
 "AlertDescription": "The Fauntleroy/Vashon/Southworth  route  will return to service  beginning with the 1:15 p.m. departure from Fauntleroy. \r\n\r\n",
 "AlertFullTitle": "Faunt/VA/SW- Update: Fauntleroy Terminal Open for Service at 1:15 p.m.",
-"PublishDate": "2022-04-04 12:54 PM"
+"PublishDate": "2022-04-05 12:54 PM"
 },
 {
 "AlertFullText": "<p>Customers are encouraged to participate in the current Ferry Riders Opinion Group survey to share their thoughts on all things WSF. The survey is hosted by the Washington State Transportation Commission and helps WSF hear feedback and suggestions directly from customers and constituents.</p>\n<p>Those looking to participate can either <a href=\"https://pacificmarketresearch.opinioninsight.com/portal/community_1_1_1.php\">sign up to join the survey panel</a> to ensure you’re included in this and all future surveys, or you can just take the current <a href=\"https://selfserve.decipherinc.com/survey/selfserve/5d8/220310#?\">survey that is available online</a> without signing up to receive future surveys. This current survey will be available through April 18.</p>",
 "BulletinID": 70605,
 "AlertDescription": "All Routes: Share Your Ferry Feedback Through Online Survey",
 "AlertFullTitle": "Share Your Ferry Feedback Through Online Survey",
-"PublishDate": "2022-04-04 04:40 AM"
+"PublishDate": "2022-04-05 04:40 AM"
 },
 {
 "AlertFullText": "<p>Due to necessary maintenance and repairs, the men's restrooms at the Southworth Terminal are temporarily closed and unavailable. Updates will be provided when more information regarding time of repairs become available. We apologize for any inconvenience.</p>",
@@ -1573,109 +1573,109 @@
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 05:05 AM"
+"DepartingTime": "2022-04-05 05:05 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 05:50 AM"
+"DepartingTime": "2022-04-05 05:50 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 06:45 AM"
+"DepartingTime": "2022-04-05 06:45 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 07:40 AM"
+"DepartingTime": "2022-04-05 07:40 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 08:30 AM"
+"DepartingTime": "2022-04-05 08:30 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 09:10 AM"
+"DepartingTime": "2022-04-05 09:10 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 09:30 AM"
+"DepartingTime": "2022-04-05 09:30 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 01:15 PM"
+"DepartingTime": "2022-04-05 01:15 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 01:35 PM"
+"DepartingTime": "2022-04-05 01:35 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 02:10 PM"
+"DepartingTime": "2022-04-05 02:10 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 03:05 PM"
+"DepartingTime": "2022-04-05 03:05 PM"
 },
 {
 "AnnotationIndexes": [
 0
 ],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 03:50 PM"
+"DepartingTime": "2022-04-05 03:50 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 04:35 PM"
+"DepartingTime": "2022-04-05 04:35 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 05:15 PM"
+"DepartingTime": "2022-04-05 05:15 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 06:15 PM"
+"DepartingTime": "2022-04-05 06:15 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 06:35 PM"
+"DepartingTime": "2022-04-05 06:35 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 07:35 PM"
+"DepartingTime": "2022-04-05 07:35 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 07:55 PM"
+"DepartingTime": "2022-04-05 07:55 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 09:15 PM"
+"DepartingTime": "2022-04-05 09:15 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 10:35 PM"
+"DepartingTime": "2022-04-05 10:35 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 11:50 PM"
+"DepartingTime": "2022-04-05 11:50 PM"
 },
 {
 "AnnotationIndexes": [],
@@ -1697,88 +1697,88 @@
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 04:05 AM"
+"DepartingTime": "2022-04-05 04:05 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 04:30 AM"
+"DepartingTime": "2022-04-05 04:30 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 05:20 AM"
+"DepartingTime": "2022-04-05 05:20 AM"
 },
 {
 "AnnotationIndexes": [
 0
 ],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 06:15 AM"
+"DepartingTime": "2022-04-05 06:15 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 07:00 AM"
+"DepartingTime": "2022-04-05 07:00 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 07:15 AM"
+"DepartingTime": "2022-04-05 07:15 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 07:55 AM"
+"DepartingTime": "2022-04-05 07:55 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 08:45 AM"
+"DepartingTime": "2022-04-05 08:45 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 09:00 AM"
+"DepartingTime": "2022-04-05 09:00 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 01:40 PM"
+"DepartingTime": "2022-04-05 01:40 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 03:20 PM"
+"DepartingTime": "2022-04-05 03:20 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 04:45 PM"
+"DepartingTime": "2022-04-05 04:45 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 05:45 PM"
+"DepartingTime": "2022-04-05 05:45 PM"
 },
 {
 "AnnotationIndexes": [
 1
 ],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 06:40 PM"
+"DepartingTime": "2022-04-05 06:40 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 10:05 PM"
+"DepartingTime": "2022-04-05 10:05 PM"
 },
 {
 "AnnotationIndexes": [
 1
 ],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 11:00 PM"
+"DepartingTime": "2022-04-05 11:00 PM"
 },
 {
 "AnnotationIndexes": [
@@ -1790,7 +1790,7 @@
 ]
 }
 ],
-"Date": "2022-04-04"
+"Date": "2022-04-05"
 }
 ]
 },
@@ -1804,7 +1804,7 @@
 "BulletinID": 70684,
 "AlertDescription": "WSF Alternate Schedule Update for Monday, April 4. See bulletin for details: https://wsdot.com/ferries/schedule/bulletin.aspx",
 "AlertFullTitle": "WSF Alternate Schedule Update for Monday, April 4",
-"PublishDate": "2022-04-04 11:52 AM"
+"PublishDate": "2022-04-05 11:52 AM"
 },
 {
 "AlertFullText": "<p>Washington State Ferries is actively working to bring service to pre-pandemic levels. While that won’t happen overnight, staff have developed a plan that outlines how to get there. Customers are encouraged to take a <a href=\"https://wsdot.wa.gov/sites/default/files/2022-03/WSF-COVID19-ServiceRestorationPlan.pdf\">look at WSF’s COVID-19 Service Restoration Plan</a> to get a clearer picture of what challenges the agency continues to face and what it will take to resume pre-pandemic service. WSF will provide regular updates on progress as it continues to restore service.</p>\n<p>Please note a previous alert had an incorrect link.</p>",
@@ -1818,7 +1818,7 @@
 "BulletinID": 70605,
 "AlertDescription": "All Routes: Share Your Ferry Feedback Through Online Survey",
 "AlertFullTitle": "Share Your Ferry Feedback Through Online Survey",
-"PublishDate": "2022-04-04 04:40 AM"
+"PublishDate": "2022-04-05 04:40 AM"
 },
 {
 "AlertFullText": "<p>The public restroom facilities at the Clinton terminal are temporarily closed due to plumbing issues.  We apologize for the inconvenience and will continue to provide updates on a repair status. </p>",
@@ -1849,177 +1849,177 @@
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 05:05 AM"
+"DepartingTime": "2022-04-05 05:05 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 05:35 AM"
+"DepartingTime": "2022-04-05 05:35 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 06:00 AM"
+"DepartingTime": "2022-04-05 06:00 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 06:30 AM"
+"DepartingTime": "2022-04-05 06:30 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 07:00 AM"
+"DepartingTime": "2022-04-05 07:00 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 07:30 AM"
+"DepartingTime": "2022-04-05 07:30 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 08:00 AM"
+"DepartingTime": "2022-04-05 08:00 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 08:30 AM"
+"DepartingTime": "2022-04-05 08:30 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 09:00 AM"
+"DepartingTime": "2022-04-05 09:00 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 09:30 AM"
+"DepartingTime": "2022-04-05 09:30 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 10:00 AM"
+"DepartingTime": "2022-04-05 10:00 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 10:30 AM"
+"DepartingTime": "2022-04-05 10:30 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 11:00 AM"
+"DepartingTime": "2022-04-05 11:00 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 11:30 AM"
+"DepartingTime": "2022-04-05 11:30 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 12:00 PM"
+"DepartingTime": "2022-04-05 12:00 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 12:30 PM"
+"DepartingTime": "2022-04-05 12:30 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 01:00 PM"
+"DepartingTime": "2022-04-05 01:00 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 01:30 PM"
+"DepartingTime": "2022-04-05 01:30 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 02:05 PM"
+"DepartingTime": "2022-04-05 02:05 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 02:35 PM"
+"DepartingTime": "2022-04-05 02:35 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 03:05 PM"
+"DepartingTime": "2022-04-05 03:05 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 03:35 PM"
+"DepartingTime": "2022-04-05 03:35 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 04:05 PM"
+"DepartingTime": "2022-04-05 04:05 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 04:40 PM"
+"DepartingTime": "2022-04-05 04:40 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 05:10 PM"
+"DepartingTime": "2022-04-05 05:10 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 05:40 PM"
+"DepartingTime": "2022-04-05 05:40 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 06:10 PM"
+"DepartingTime": "2022-04-05 06:10 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 06:40 PM"
+"DepartingTime": "2022-04-05 06:40 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 07:05 PM"
+"DepartingTime": "2022-04-05 07:05 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 07:35 PM"
+"DepartingTime": "2022-04-05 07:35 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 08:05 PM"
+"DepartingTime": "2022-04-05 08:05 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 08:35 PM"
+"DepartingTime": "2022-04-05 08:35 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 09:00 PM"
+"DepartingTime": "2022-04-05 09:00 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 10:00 PM"
+"DepartingTime": "2022-04-05 10:00 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 11:00 PM"
+"DepartingTime": "2022-04-05 11:00 PM"
 },
 {
 "AnnotationIndexes": [],
@@ -2038,187 +2038,187 @@
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 04:40 AM"
+"DepartingTime": "2022-04-05 04:40 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 05:05 AM"
+"DepartingTime": "2022-04-05 05:05 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 05:30 AM"
+"DepartingTime": "2022-04-05 05:30 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 06:00 AM"
+"DepartingTime": "2022-04-05 06:00 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 06:30 AM"
+"DepartingTime": "2022-04-05 06:30 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 07:00 AM"
+"DepartingTime": "2022-04-05 07:00 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 07:30 AM"
+"DepartingTime": "2022-04-05 07:30 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 08:00 AM"
+"DepartingTime": "2022-04-05 08:00 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 08:30 AM"
+"DepartingTime": "2022-04-05 08:30 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 09:00 AM"
+"DepartingTime": "2022-04-05 09:00 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 09:30 AM"
+"DepartingTime": "2022-04-05 09:30 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 10:00 AM"
+"DepartingTime": "2022-04-05 10:00 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 10:30 AM"
+"DepartingTime": "2022-04-05 10:30 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 11:00 AM"
+"DepartingTime": "2022-04-05 11:00 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 11:30 AM"
+"DepartingTime": "2022-04-05 11:30 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 12:00 PM"
+"DepartingTime": "2022-04-05 12:00 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 12:30 PM"
+"DepartingTime": "2022-04-05 12:30 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 01:00 PM"
+"DepartingTime": "2022-04-05 01:00 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 01:30 PM"
+"DepartingTime": "2022-04-05 01:30 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 02:00 PM"
+"DepartingTime": "2022-04-05 02:00 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 02:35 PM"
+"DepartingTime": "2022-04-05 02:35 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 03:05 PM"
+"DepartingTime": "2022-04-05 03:05 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 03:35 PM"
+"DepartingTime": "2022-04-05 03:35 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 04:05 PM"
+"DepartingTime": "2022-04-05 04:05 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 04:35 PM"
+"DepartingTime": "2022-04-05 04:35 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 05:05 PM"
+"DepartingTime": "2022-04-05 05:05 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 05:35 PM"
+"DepartingTime": "2022-04-05 05:35 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 06:05 PM"
+"DepartingTime": "2022-04-05 06:05 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 06:35 PM"
+"DepartingTime": "2022-04-05 06:35 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 07:05 PM"
+"DepartingTime": "2022-04-05 07:05 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 07:35 PM"
+"DepartingTime": "2022-04-05 07:35 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 08:00 PM"
+"DepartingTime": "2022-04-05 08:00 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 08:30 PM"
+"DepartingTime": "2022-04-05 08:30 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 09:30 PM"
+"DepartingTime": "2022-04-05 09:30 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 10:30 PM"
+"DepartingTime": "2022-04-05 10:30 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 11:45 PM"
+"DepartingTime": "2022-04-05 11:45 PM"
 }
 ]
 }
 ],
-"Date": "2022-04-04"
+"Date": "2022-04-05"
 }
 ]
 },
@@ -2232,7 +2232,7 @@
 "BulletinID": 70684,
 "AlertDescription": "WSF Alternate Schedule Update for Monday, April 4. See bulletin for details: https://wsdot.com/ferries/schedule/bulletin.aspx",
 "AlertFullTitle": "WSF Alternate Schedule Update for Monday, April 4",
-"PublishDate": "2022-04-04 11:52 AM"
+"PublishDate": "2022-04-05 11:52 AM"
 },
 {
 "AlertFullText": "<p>Washington State Ferries is actively working to bring service to pre-pandemic levels. While that won’t happen overnight, staff have developed a plan that outlines how to get there. Customers are encouraged to take a <a href=\"https://wsdot.wa.gov/sites/default/files/2022-03/WSF-COVID19-ServiceRestorationPlan.pdf\">look at WSF’s COVID-19 Service Restoration Plan</a> to get a clearer picture of what challenges the agency continues to face and what it will take to resume pre-pandemic service. WSF will provide regular updates on progress as it continues to restore service.</p>\n<p>Please note a previous alert had an incorrect link.</p>",
@@ -2246,21 +2246,21 @@
 "BulletinID": 70698,
 "AlertDescription": "The Port Townsend/Coupeville route has returned to service, after earlier cancellations due to weather conditions. ",
 "AlertFullTitle": "PT/Coup: Port Townsend/Coupeville Route Returns to Service",
-"PublishDate": "2022-04-04 12:34 PM"
+"PublishDate": "2022-04-05 12:34 PM"
 },
 {
 "AlertFullText": "<p>Customers are encouraged to participate in the current Ferry Riders Opinion Group survey to share their thoughts on all things WSF. The survey is hosted by the Washington State Transportation Commission and helps WSF hear feedback and suggestions directly from customers and constituents.</p>\n<p>Those looking to participate can either <a href=\"https://pacificmarketresearch.opinioninsight.com/portal/community_1_1_1.php\">sign up to join the survey panel</a> to ensure you’re included in this and all future surveys, or you can just take the current <a href=\"https://selfserve.decipherinc.com/survey/selfserve/5d8/220310#?\">survey that is available online</a> without signing up to receive future surveys. This current survey will be available through April 18.</p>",
 "BulletinID": 70605,
 "AlertDescription": "All Routes: Share Your Ferry Feedback Through Online Survey",
 "AlertFullTitle": "Share Your Ferry Feedback Through Online Survey",
-"PublishDate": "2022-04-04 04:40 AM"
+"PublishDate": "2022-04-05 04:40 AM"
 },
 {
 "AlertFullText": "<p>The restrooms are currently out of service at the Port Townsend Terminal. We will provide an update once they are available again.</p>",
 "BulletinID": 70664,
 "AlertDescription": "PT/Coup - Restrooms Are Out of Service At Port Townsend Terminal",
 "AlertFullTitle": "PT/Coup - Restrooms Are Out of Service At Port Townsend Terminal",
-"PublishDate": "2022-04-04 08:03 AM"
+"PublishDate": "2022-04-05 08:03 AM"
 },
 {
 "AlertFullText": "<p>Face masks are now required only in indoor areas of our terminals and vessels for all riders and employees in <a href=\"https://www.cdc.gov/coronavirus/2019-ncov/travelers/face-masks-public-transportation.html\">compliance with the latest CDC guidelines</a>. All customers inside terminals or vessels should continue to wear face coverings. However, passengers can remove their masks while outdoors on the sun deck, car deck areas of the vessel, outside waiting areas at terminals and other outdoor locations. Please remember to mask up upon reentering interior areas of boats and terminals.</p>",
@@ -2284,42 +2284,42 @@
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 06:30 AM"
+"DepartingTime": "2022-04-05 06:30 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 08:00 AM"
+"DepartingTime": "2022-04-05 08:00 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 12:30 PM"
+"DepartingTime": "2022-04-05 12:30 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 02:00 PM"
+"DepartingTime": "2022-04-05 02:00 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 03:30 PM"
+"DepartingTime": "2022-04-05 03:30 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 05:15 PM"
+"DepartingTime": "2022-04-05 05:15 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 06:45 PM"
+"DepartingTime": "2022-04-05 06:45 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 08:30 PM"
+"DepartingTime": "2022-04-05 08:30 PM"
 }
 ]
 },
@@ -2333,47 +2333,47 @@
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 07:15 AM"
+"DepartingTime": "2022-04-05 07:15 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 08:45 AM"
+"DepartingTime": "2022-04-05 08:45 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 01:15 PM"
+"DepartingTime": "2022-04-05 01:15 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 02:45 PM"
+"DepartingTime": "2022-04-05 02:45 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 04:15 PM"
+"DepartingTime": "2022-04-05 04:15 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 06:00 PM"
+"DepartingTime": "2022-04-05 06:00 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 07:30 PM"
+"DepartingTime": "2022-04-05 07:30 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 09:10 PM"
+"DepartingTime": "2022-04-05 09:10 PM"
 }
 ]
 }
 ],
-"Date": "2022-04-04"
+"Date": "2022-04-05"
 }
 ]
 },
@@ -2387,7 +2387,7 @@
 "BulletinID": 70684,
 "AlertDescription": "WSF Alternate Schedule Update for Monday, April 4. See bulletin for details: https://wsdot.com/ferries/schedule/bulletin.aspx",
 "AlertFullTitle": "WSF Alternate Schedule Update for Monday, April 4",
-"PublishDate": "2022-04-04 11:52 AM"
+"PublishDate": "2022-04-05 11:52 AM"
 },
 {
 "AlertFullText": "<p>Washington State Ferries is actively working to bring service to pre-pandemic levels. While that won’t happen overnight, staff have developed a plan that outlines how to get there. Customers are encouraged to take a <a href=\"https://wsdot.wa.gov/sites/default/files/2022-03/WSF-COVID19-ServiceRestorationPlan.pdf\">look at WSF’s COVID-19 Service Restoration Plan</a> to get a clearer picture of what challenges the agency continues to face and what it will take to resume pre-pandemic service. WSF will provide regular updates on progress as it continues to restore service.</p>\n<p>Please note a previous alert had an incorrect link.</p>",
@@ -2401,21 +2401,21 @@
 "BulletinID": 70697,
 "AlertDescription": "There is an estimated 1 hr. wait for vehicle traffic departing the Point Defiance terminal. ",
 "AlertFullTitle": "PD/Tah-Point Defiance Terminal Status: One Hour Wait for Vehicles",
-"PublishDate": "2022-04-04 12:25 PM"
+"PublishDate": "2022-04-05 12:25 PM"
 },
 {
 "AlertFullText": "<p>The Fauntleroy/Vashon/Southworth  route  will return to service  beginning with the 1:15 p.m.  departure from Fauntleroy to Vashon.</p>\n<ul>\n<li><a href=\"https://wsdot.com/ferries/schedule/scheduledetailbyroute.aspx?route=f-s\">2-Boat Fauntleroy / Southworth</a></li>\n<li><a href=\"https://wsdot.com/ferries/schedule/scheduledetailbyroute.aspx?route=f-v-s\">2-Boat Fauntleroy / Vashon</a></li>\n<li><a href=\"https://wsdot.com/ferries/schedule/scheduledetailbyroute.aspx?route=s-v\">2-Boat Southworth / Vashon</a></li>\n</ul>",
 "BulletinID": 70700,
 "AlertDescription": "The Fauntleroy/Vashon/Southworth  route  will return to service  beginning with the 1:15 p.m. departure from Fauntleroy. \r\n\r\n",
 "AlertFullTitle": "Faunt/VA/SW- Update: Fauntleroy Terminal Open for Service at 1:15 p.m.",
-"PublishDate": "2022-04-04 12:54 PM"
+"PublishDate": "2022-04-05 12:54 PM"
 },
 {
 "AlertFullText": "<p>Customers are encouraged to participate in the current Ferry Riders Opinion Group survey to share their thoughts on all things WSF. The survey is hosted by the Washington State Transportation Commission and helps WSF hear feedback and suggestions directly from customers and constituents.</p>\n<p>Those looking to participate can either <a href=\"https://pacificmarketresearch.opinioninsight.com/portal/community_1_1_1.php\">sign up to join the survey panel</a> to ensure you’re included in this and all future surveys, or you can just take the current <a href=\"https://selfserve.decipherinc.com/survey/selfserve/5d8/220310#?\">survey that is available online</a> without signing up to receive future surveys. This current survey will be available through April 18.</p>",
 "BulletinID": 70605,
 "AlertDescription": "All Routes: Share Your Ferry Feedback Through Online Survey",
 "AlertFullTitle": "Share Your Ferry Feedback Through Online Survey",
-"PublishDate": "2022-04-04 04:40 AM"
+"PublishDate": "2022-04-05 04:40 AM"
 },
 {
 "AlertFullText": "<p>Face masks are now required only in indoor areas of our terminals and vessels for all riders and employees in <a href=\"https://www.cdc.gov/coronavirus/2019-ncov/travelers/face-masks-public-transportation.html\">compliance with the latest CDC guidelines</a>. All customers inside terminals or vessels should continue to wear face coverings. However, passengers can remove their masks while outdoors on the sun deck, car deck areas of the vessel, outside waiting areas at terminals and other outdoor locations. Please remember to mask up upon reentering interior areas of boats and terminals.</p>",
@@ -2439,102 +2439,102 @@
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 05:05 AM"
+"DepartingTime": "2022-04-05 05:05 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 05:55 AM"
+"DepartingTime": "2022-04-05 05:55 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 06:45 AM"
+"DepartingTime": "2022-04-05 06:45 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 07:35 AM"
+"DepartingTime": "2022-04-05 07:35 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 08:25 AM"
+"DepartingTime": "2022-04-05 08:25 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 09:15 AM"
+"DepartingTime": "2022-04-05 09:15 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 10:05 AM"
+"DepartingTime": "2022-04-05 10:05 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 10:55 AM"
+"DepartingTime": "2022-04-05 10:55 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 11:45 AM"
+"DepartingTime": "2022-04-05 11:45 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 12:35 PM"
+"DepartingTime": "2022-04-05 12:35 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 01:40 PM"
+"DepartingTime": "2022-04-05 01:40 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 02:40 PM"
+"DepartingTime": "2022-04-05 02:40 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 03:40 PM"
+"DepartingTime": "2022-04-05 03:40 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 04:35 PM"
+"DepartingTime": "2022-04-05 04:35 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 05:30 PM"
+"DepartingTime": "2022-04-05 05:30 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 06:30 PM"
+"DepartingTime": "2022-04-05 06:30 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 07:25 PM"
+"DepartingTime": "2022-04-05 07:25 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 08:25 PM"
+"DepartingTime": "2022-04-05 08:25 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 09:30 PM"
+"DepartingTime": "2022-04-05 09:30 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 10:30 PM"
+"DepartingTime": "2022-04-05 10:30 PM"
 }
 ]
 },
@@ -2548,107 +2548,107 @@
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 05:30 AM"
+"DepartingTime": "2022-04-05 05:30 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 06:20 AM"
+"DepartingTime": "2022-04-05 06:20 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 07:10 AM"
+"DepartingTime": "2022-04-05 07:10 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 08:00 AM"
+"DepartingTime": "2022-04-05 08:00 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 08:50 AM"
+"DepartingTime": "2022-04-05 08:50 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 09:40 AM"
+"DepartingTime": "2022-04-05 09:40 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 10:30 AM"
+"DepartingTime": "2022-04-05 10:30 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 11:20 AM"
+"DepartingTime": "2022-04-05 11:20 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 12:10 PM"
+"DepartingTime": "2022-04-05 12:10 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 01:00 PM"
+"DepartingTime": "2022-04-05 01:00 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 02:10 PM"
+"DepartingTime": "2022-04-05 02:10 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 03:10 PM"
+"DepartingTime": "2022-04-05 03:10 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 04:05 PM"
+"DepartingTime": "2022-04-05 04:05 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 05:00 PM"
+"DepartingTime": "2022-04-05 05:00 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 06:00 PM"
+"DepartingTime": "2022-04-05 06:00 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 07:00 PM"
+"DepartingTime": "2022-04-05 07:00 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 08:00 PM"
+"DepartingTime": "2022-04-05 08:00 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 09:00 PM"
+"DepartingTime": "2022-04-05 09:00 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 10:00 PM"
+"DepartingTime": "2022-04-05 10:00 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 10:55 PM"
+"DepartingTime": "2022-04-05 10:55 PM"
 }
 ]
 }
 ],
-"Date": "2022-04-04"
+"Date": "2022-04-05"
 }
 ]
 },
@@ -2662,7 +2662,7 @@
 "BulletinID": 70684,
 "AlertDescription": "WSF Alternate Schedule Update for Monday, April 4. See bulletin for details: https://wsdot.com/ferries/schedule/bulletin.aspx",
 "AlertFullTitle": "WSF Alternate Schedule Update for Monday, April 4",
-"PublishDate": "2022-04-04 11:52 AM"
+"PublishDate": "2022-04-05 11:52 AM"
 },
 {
 "AlertFullText": "<p>The #1 Wenatchee is an estimated 36 minutes behind schedule.</p>\n<p>The #2 Kaleetan is an estimated 27 Minutes behind schedule.</p>\n<p>Colman Dock  will remain on one-slip service until further notice, which will likely cause delays.</p>\n<p>This will delay the following sailings:</p>\n<ul>\n<li>2:05 p.m., 2:55 p.m, 3:50 p.m., 4:45 p.m., &amp; 5:35 p.m. from Bainbridge</li>\n<li>2:05 p.m., 3:00 p.m., 3:50 p.m., 4:45 p.m. &amp; 5:45 p.m. from Seattle</li>\n</ul>\n<p>We will continue to send updated travel information as it becomes available. Customers can <a href=\"https://wsdot.wa.gov/ferries/sailing-schedules/schedule-route\">check the online schedule</a> for more information on scheduled upcoming sailings and also <a href=\"https://www.wsdot.com/ferries/vesselwatch/\">view the real-time travel map</a> for live boat location information.</p>",
@@ -2683,21 +2683,21 @@
 "BulletinID": 70694,
 "AlertDescription": "Sea/BI/Brem- One-Slip Service at Seattle Terminal Until Further Notice",
 "AlertFullTitle": "Sea/BI/Brem- One-Slip Service at Seattle Terminal Until Further Notice",
-"PublishDate": "2022-04-04 10:41 AM"
+"PublishDate": "2022-04-05 10:41 AM"
 },
 {
 "AlertFullText": "<p>The #2 Kaleetan will will be added to the Seattle/Bainbridge Island route<strong> </strong>to supplement service for today beginning with a late 1:10 p.m. departure from Seattle. </p>\nWith an analysis of the slip at Colman Dock continuing, the terminal will remain on one-slip service until further notice, which will likely cause delays.\n<ul>\n<li><a href=\"https://wsdot.com/Ferries/Schedule/scheduledetailbyroute.aspx?schedrouteid=1955&amp;route=sea-bi\">Seattle/Bainbridge Island</a></li>\n</ul>",
 "BulletinID": 70699,
 "AlertDescription": "Sea/BI - Update -  Additional Service to Begin With A Late 1:10pm from Seattle",
 "AlertFullTitle": "Sea/BI - Update -  Additional Service to Begin With A Late 1:10pm from Seattle",
-"PublishDate": "2022-04-04 12:51 PM"
+"PublishDate": "2022-04-05 12:51 PM"
 },
 {
 "AlertFullText": "<p>Customers are encouraged to participate in the current Ferry Riders Opinion Group survey to share their thoughts on all things WSF. The survey is hosted by the Washington State Transportation Commission and helps WSF hear feedback and suggestions directly from customers and constituents.</p>\n<p>Those looking to participate can either <a href=\"https://pacificmarketresearch.opinioninsight.com/portal/community_1_1_1.php\">sign up to join the survey panel</a> to ensure you’re included in this and all future surveys, or you can just take the current <a href=\"https://selfserve.decipherinc.com/survey/selfserve/5d8/220310#?\">survey that is available online</a> without signing up to receive future surveys. This current survey will be available through April 18.</p>",
 "BulletinID": 70605,
 "AlertDescription": "All Routes: Share Your Ferry Feedback Through Online Survey",
 "AlertFullTitle": "Share Your Ferry Feedback Through Online Survey",
-"PublishDate": "2022-04-04 04:40 AM"
+"PublishDate": "2022-04-05 04:40 AM"
 },
 {
 "AlertFullText": "<p>The passenger elevator on the #2 vessel Kaleetan is temporarily out of service for maintenance and repairs.  Updates on a repair status will be provided when more information becomes available. We apologize for the inconvenience.</p>",
@@ -2735,92 +2735,92 @@
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 05:30 AM"
+"DepartingTime": "2022-04-05 05:30 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 07:05 AM"
+"DepartingTime": "2022-04-05 07:05 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 08:45 AM"
+"DepartingTime": "2022-04-05 08:45 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 10:40 AM"
+"DepartingTime": "2022-04-05 10:40 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 11:25 AM"
+"DepartingTime": "2022-04-05 11:25 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 12:25 PM"
+"DepartingTime": "2022-04-05 12:25 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 01:10 PM"
+"DepartingTime": "2022-04-05 01:10 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 02:05 PM"
+"DepartingTime": "2022-04-05 02:05 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 03:00 PM"
+"DepartingTime": "2022-04-05 03:00 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 03:50 PM"
+"DepartingTime": "2022-04-05 03:50 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 04:45 PM"
+"DepartingTime": "2022-04-05 04:45 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 05:45 PM"
+"DepartingTime": "2022-04-05 05:45 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 06:30 PM"
+"DepartingTime": "2022-04-05 06:30 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 07:30 PM"
+"DepartingTime": "2022-04-05 07:30 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 08:15 PM"
+"DepartingTime": "2022-04-05 08:15 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 09:20 PM"
+"DepartingTime": "2022-04-05 09:20 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 10:05 PM"
+"DepartingTime": "2022-04-05 10:05 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 10:50 PM"
+"DepartingTime": "2022-04-05 10:50 PM"
 },
 {
 "AnnotationIndexes": [],
@@ -2839,102 +2839,102 @@
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 04:45 AM"
+"DepartingTime": "2022-04-05 04:45 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 06:20 AM"
+"DepartingTime": "2022-04-05 06:20 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 07:05 AM"
+"DepartingTime": "2022-04-05 07:05 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 07:55 AM"
+"DepartingTime": "2022-04-05 07:55 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 09:40 AM"
+"DepartingTime": "2022-04-05 09:40 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 11:30 AM"
+"DepartingTime": "2022-04-05 11:30 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 12:20 PM"
+"DepartingTime": "2022-04-05 12:20 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 01:15 PM"
+"DepartingTime": "2022-04-05 01:15 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 02:05 PM"
+"DepartingTime": "2022-04-05 02:05 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 02:55 PM"
+"DepartingTime": "2022-04-05 02:55 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 03:50 PM"
+"DepartingTime": "2022-04-05 03:50 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 04:45 PM"
+"DepartingTime": "2022-04-05 04:45 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 05:35 PM"
+"DepartingTime": "2022-04-05 05:35 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 06:40 PM"
+"DepartingTime": "2022-04-05 06:40 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 07:20 PM"
+"DepartingTime": "2022-04-05 07:20 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 08:20 PM"
+"DepartingTime": "2022-04-05 08:20 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 09:00 PM"
+"DepartingTime": "2022-04-05 09:00 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 10:00 PM"
+"DepartingTime": "2022-04-05 10:00 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 11:30 PM"
+"DepartingTime": "2022-04-05 11:30 PM"
 }
 ]
 }
 ],
-"Date": "2022-04-04"
+"Date": "2022-04-05"
 }
 ]
 },
@@ -2948,7 +2948,7 @@
 "BulletinID": 70684,
 "AlertDescription": "WSF Alternate Schedule Update for Monday, April 4. See bulletin for details: https://wsdot.com/ferries/schedule/bulletin.aspx",
 "AlertFullTitle": "WSF Alternate Schedule Update for Monday, April 4",
-"PublishDate": "2022-04-04 11:52 AM"
+"PublishDate": "2022-04-05 11:52 AM"
 },
 {
 "AlertFullText": "<p>Washington State Ferries is actively working to bring service to pre-pandemic levels. While that won’t happen overnight, staff have developed a plan that outlines how to get there. Customers are encouraged to take a <a href=\"https://wsdot.wa.gov/sites/default/files/2022-03/WSF-COVID19-ServiceRestorationPlan.pdf\">look at WSF’s COVID-19 Service Restoration Plan</a> to get a clearer picture of what challenges the agency continues to face and what it will take to resume pre-pandemic service. WSF will provide regular updates on progress as it continues to restore service.</p>\n<p>Please note a previous alert had an incorrect link.</p>",
@@ -2962,14 +2962,14 @@
 "BulletinID": 70694,
 "AlertDescription": "Sea/BI/Brem- One-Slip Service at Seattle Terminal Until Further Notice",
 "AlertFullTitle": "Sea/BI/Brem- One-Slip Service at Seattle Terminal Until Further Notice",
-"PublishDate": "2022-04-04 10:41 AM"
+"PublishDate": "2022-04-05 10:41 AM"
 },
 {
 "AlertFullText": "<p>Customers are encouraged to participate in the current Ferry Riders Opinion Group survey to share their thoughts on all things WSF. The survey is hosted by the Washington State Transportation Commission and helps WSF hear feedback and suggestions directly from customers and constituents.</p>\n<p>Those looking to participate can either <a href=\"https://pacificmarketresearch.opinioninsight.com/portal/community_1_1_1.php\">sign up to join the survey panel</a> to ensure you’re included in this and all future surveys, or you can just take the current <a href=\"https://selfserve.decipherinc.com/survey/selfserve/5d8/220310#?\">survey that is available online</a> without signing up to receive future surveys. This current survey will be available through April 18.</p>",
 "BulletinID": 70605,
 "AlertDescription": "All Routes: Share Your Ferry Feedback Through Online Survey",
 "AlertFullTitle": "Share Your Ferry Feedback Through Online Survey",
-"PublishDate": "2022-04-04 04:40 AM"
+"PublishDate": "2022-04-05 04:40 AM"
 },
 {
 "AlertFullText": "<p>Beginning Monday, February 14 through May 14, WSF will be testing New ORCA system card readers at one turnstile and one passenger tollbooth at Colman Dock in Seattle. During this period, the turnstile will be closed. The passenger tollbooth will remain open but will not be able to complete ORCA transactions. Signs will be posted to inform customers which tollbooth cannot be used for ORCA payment.</p>\n<p>Visit <a href=\"http://www.myorca.com\">www.myorca.com</a> to learn about exciting new updates to ORCA.</p>",
@@ -3000,37 +3000,37 @@
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 07:35 AM"
+"DepartingTime": "2022-04-05 07:35 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 10:00 AM"
+"DepartingTime": "2022-04-05 10:00 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 12:20 PM"
+"DepartingTime": "2022-04-05 12:20 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 02:50 PM"
+"DepartingTime": "2022-04-05 02:50 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 05:30 PM"
+"DepartingTime": "2022-04-05 05:30 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 07:50 PM"
+"DepartingTime": "2022-04-05 07:50 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 10:30 PM"
+"DepartingTime": "2022-04-05 10:30 PM"
 },
 {
 "AnnotationIndexes": [],
@@ -3049,47 +3049,47 @@
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 06:20 AM"
+"DepartingTime": "2022-04-05 06:20 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 08:45 AM"
+"DepartingTime": "2022-04-05 08:45 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 11:10 AM"
+"DepartingTime": "2022-04-05 11:10 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 01:30 PM"
+"DepartingTime": "2022-04-05 01:30 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 04:15 PM"
+"DepartingTime": "2022-04-05 04:15 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 06:40 PM"
+"DepartingTime": "2022-04-05 06:40 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 09:00 PM"
+"DepartingTime": "2022-04-05 09:00 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 11:40 PM"
+"DepartingTime": "2022-04-05 11:40 PM"
 }
 ]
 }
 ],
-"Date": "2022-04-04"
+"Date": "2022-04-05"
 }
 ]
 },
@@ -3103,7 +3103,7 @@
 "BulletinID": 70684,
 "AlertDescription": "WSF Alternate Schedule Update for Monday, April 4. See bulletin for details: https://wsdot.com/ferries/schedule/bulletin.aspx",
 "AlertFullTitle": "WSF Alternate Schedule Update for Monday, April 4",
-"PublishDate": "2022-04-04 11:52 AM"
+"PublishDate": "2022-04-05 11:52 AM"
 },
 {
 "AlertFullText": "<p>Washington State Ferries is actively working to bring service to pre-pandemic levels. While that won’t happen overnight, staff have developed a plan that outlines how to get there. Customers are encouraged to take a <a href=\"https://wsdot.wa.gov/sites/default/files/2022-03/WSF-COVID19-ServiceRestorationPlan.pdf\">look at WSF’s COVID-19 Service Restoration Plan</a> to get a clearer picture of what challenges the agency continues to face and what it will take to resume pre-pandemic service. WSF will provide regular updates on progress as it continues to restore service.</p>\n<p>Please note a previous alert had an incorrect link.</p>",
@@ -3117,21 +3117,21 @@
 "BulletinID": 70697,
 "AlertDescription": "There is an estimated 1 hr. wait for vehicle traffic departing the Point Defiance terminal. ",
 "AlertFullTitle": "PD/Tah-Point Defiance Terminal Status: One Hour Wait for Vehicles",
-"PublishDate": "2022-04-04 12:25 PM"
+"PublishDate": "2022-04-05 12:25 PM"
 },
 {
 "AlertFullText": "<p>The Fauntleroy/Vashon/Southworth  route  will return to service  beginning with the 1:15 p.m.  departure from Fauntleroy to Vashon.</p>\n<ul>\n<li><a href=\"https://wsdot.com/ferries/schedule/scheduledetailbyroute.aspx?route=f-s\">2-Boat Fauntleroy / Southworth</a></li>\n<li><a href=\"https://wsdot.com/ferries/schedule/scheduledetailbyroute.aspx?route=f-v-s\">2-Boat Fauntleroy / Vashon</a></li>\n<li><a href=\"https://wsdot.com/ferries/schedule/scheduledetailbyroute.aspx?route=s-v\">2-Boat Southworth / Vashon</a></li>\n</ul>",
 "BulletinID": 70700,
 "AlertDescription": "The Fauntleroy/Vashon/Southworth  route  will return to service  beginning with the 1:15 p.m. departure from Fauntleroy. \r\n\r\n",
 "AlertFullTitle": "Faunt/VA/SW- Update: Fauntleroy Terminal Open for Service at 1:15 p.m.",
-"PublishDate": "2022-04-04 12:54 PM"
+"PublishDate": "2022-04-05 12:54 PM"
 },
 {
 "AlertFullText": "<p>Customers are encouraged to participate in the current Ferry Riders Opinion Group survey to share their thoughts on all things WSF. The survey is hosted by the Washington State Transportation Commission and helps WSF hear feedback and suggestions directly from customers and constituents.</p>\n<p>Those looking to participate can either <a href=\"https://pacificmarketresearch.opinioninsight.com/portal/community_1_1_1.php\">sign up to join the survey panel</a> to ensure you’re included in this and all future surveys, or you can just take the current <a href=\"https://selfserve.decipherinc.com/survey/selfserve/5d8/220310#?\">survey that is available online</a> without signing up to receive future surveys. This current survey will be available through April 18.</p>",
 "BulletinID": 70605,
 "AlertDescription": "All Routes: Share Your Ferry Feedback Through Online Survey",
 "AlertFullTitle": "Share Your Ferry Feedback Through Online Survey",
-"PublishDate": "2022-04-04 04:40 AM"
+"PublishDate": "2022-04-05 04:40 AM"
 },
 {
 "AlertFullText": "<p>Due to necessary maintenance and repairs, the men's restrooms at the Southworth Terminal are temporarily closed and unavailable. Updates will be provided when more information regarding time of repairs become available. We apologize for any inconvenience.</p>",
@@ -3166,87 +3166,87 @@
 0
 ],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 04:05 AM"
+"DepartingTime": "2022-04-05 04:05 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 05:25 AM"
+"DepartingTime": "2022-04-05 05:25 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 06:15 AM"
+"DepartingTime": "2022-04-05 06:15 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 08:05 AM"
+"DepartingTime": "2022-04-05 08:05 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 09:35 AM"
+"DepartingTime": "2022-04-05 09:35 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 10:55 AM"
+"DepartingTime": "2022-04-05 10:55 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 11:55 AM"
+"DepartingTime": "2022-04-05 11:55 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 12:35 PM"
+"DepartingTime": "2022-04-05 12:35 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 02:00 PM"
+"DepartingTime": "2022-04-05 02:00 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 02:35 PM"
+"DepartingTime": "2022-04-05 02:35 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 03:30 PM"
+"DepartingTime": "2022-04-05 03:30 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 05:00 PM"
+"DepartingTime": "2022-04-05 05:00 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 05:40 PM"
+"DepartingTime": "2022-04-05 05:40 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 06:40 PM"
+"DepartingTime": "2022-04-05 06:40 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 07:00 PM"
+"DepartingTime": "2022-04-05 07:00 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 08:15 PM"
+"DepartingTime": "2022-04-05 08:15 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 11:00 PM"
+"DepartingTime": "2022-04-05 11:00 PM"
 },
 {
 "AnnotationIndexes": [],
@@ -3273,73 +3273,73 @@
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 04:10 AM"
+"DepartingTime": "2022-04-05 04:10 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 05:00 AM"
+"DepartingTime": "2022-04-05 05:00 AM"
 },
 {
 "AnnotationIndexes": [
 0
 ],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 05:50 AM"
+"DepartingTime": "2022-04-05 05:50 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 06:40 AM"
+"DepartingTime": "2022-04-05 06:40 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 08:25 AM"
+"DepartingTime": "2022-04-05 08:25 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 09:55 AM"
+"DepartingTime": "2022-04-05 09:55 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 11:15 AM"
+"DepartingTime": "2022-04-05 11:15 AM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 12:15 PM"
+"DepartingTime": "2022-04-05 12:15 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 03:00 PM"
+"DepartingTime": "2022-04-05 03:00 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 04:25 PM"
+"DepartingTime": "2022-04-05 04:25 PM"
 },
 {
 "AnnotationIndexes": [],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 05:20 PM"
+"DepartingTime": "2022-04-05 05:20 PM"
 },
 {
 "AnnotationIndexes": [
 1
 ],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 07:20 PM"
+"DepartingTime": "2022-04-05 07:20 PM"
 },
 {
 "AnnotationIndexes": [
 1
 ],
 "ArrivingTime": null,
-"DepartingTime": "2022-04-04 11:20 PM"
+"DepartingTime": "2022-04-05 11:20 PM"
 },
 {
 "AnnotationIndexes": [
@@ -3351,7 +3351,7 @@
 ]
 }
 ],
-"Date": "2022-04-04"
+"Date": "2022-04-05"
 }
 ]
 }
