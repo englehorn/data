@@ -56,7 +56,7 @@
 "ArrivingTerminalName": "Lopez Island",
 "ArrivingTerminalID": 13,
 "Annotations": [
-"Priority for Orcas and Shaw vehicles on the 3:05 p.m. weekday departure. Recommend 5:20 p.m. sailing for Lopez vehicles; foot passengers OK."
+"Test Annotation"
 ],
 "DepartingTerminalName": "Anacortes",
 "Times": [
