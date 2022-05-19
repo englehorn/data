@@ -1,32 +1,32 @@
 [{
-	"Duration": 60,
-	"BridgeOpeningId": 50989,
+	"Duration": 1,
+	"BridgeOpeningId": 1,
 	"OriginalBridgeOpenScheduleDate": null,
-	"EventText": "Hood Canal Bridge closed, marine opening in progress. Motorists should expect delays for up to 60 minutes.",
-	"Status": "Closed to traffic ",
+	"EventText": "Hood Canal Bridge",
+	"Status": "1",
 	"BridgeLocation": {
 		"Description": "Hood Canal",
-		"Longitude": -122.6216,
-		"Latitude": 47.8584,
+		"Longitude": 1,
+		"Latitude": 1,
 		"Direction": "Both",
-		"RoadName": "104",
-		"MilePost": 14.47
+		"RoadName": "1",
+		"MilePost": 1
 	},
 	"OpeningTime": "2022-04-25T11:45:00"
 },
 {
-	"Duration": 60,
-	"BridgeOpeningId": 50990,
+	"Duration": 2,
+	"BridgeOpeningId": 2,
 	"OriginalBridgeOpenScheduleDate": null,
-	"EventText": "Hood Canal Bridge closed, marine opening in progress. Motorists should expect delays for up to 60 minutes.",
-	"Status": "Closed to traffic ",
+	"EventText": "Interstate Bridge",
+	"Status": "2",
 	"BridgeLocation": {
 		"Description": "Interstate Bridge",
-		"Longitude": -122.6216,
-		"Latitude": 47.8584,
+		"Longitude": 2,
+		"Latitude": 2,
 		"Direction": "Both",
-		"RoadName": "104",
-		"MilePost": 14.47
+		"RoadName": "2",
+		"MilePost": 2
 	},
 	"OpeningTime": "2022-04-25T11:45:00"
 }
