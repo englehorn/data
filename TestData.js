@@ -4,7 +4,7 @@
 	"OriginalBridgeOpenScheduleDate": null,
 	"EventText": "Hood Canal Bridge closed, marine opening in progress. Motorists should expect delays for up to 60 minutes.",
 	"Status": "Closed to traffic ",
-	"Bridgelocation": {
+	"BridgeLocation": {
 		"Description": "Hood Canal",
 		"Longitude": -122.6216,
 		"Latitude": 47.8584,
