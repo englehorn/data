@@ -29,6 +29,22 @@
 		"MilePost": 2
 	},
 	"OpeningTime": "2022-04-25T11:45:00"
+},
+{
+	"Duration": 3,
+	"BridgeOpeningId": 3,
+	"OriginalBridgeOpenScheduleDate": null,
+	"EventText": "1st Avenue South Bridge in Seattle",
+	"Status": "3",
+	"BridgeLocation": {
+		"Description": "1st Avenue South Bridge in Seattle",
+		"Longitude": 3,
+		"Latitude": 3,
+		"Direction": "Both",
+		"RoadName": "3",
+		"MilePost": 3
+	},
+	"OpeningTime": "2022-04-25T11:45:00"
 }
 
 ]
