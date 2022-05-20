@@ -16,7 +16,7 @@
 },
 {
 	"Duration": 1,
-	"BridgeOpeningId": 1,
+	"BridgeOpeningId": 4,
 	"OriginalBridgeOpenScheduleDate": null,
 	"EventText": "Hood Canal Bridge",
 	"Status": "1",
@@ -32,7 +32,7 @@
 },
 {
 	"Duration": 2,
-	"BridgeOpeningId": 3,
+	"BridgeOpeningId": 20,
 	"OriginalBridgeOpenScheduleDate": null,
 	"EventText": "Interstate Bridge3",
 	"Status": "2",
