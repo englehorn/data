@@ -44,7 +44,7 @@
 		"RoadName": "2",
 		"MilePost": 2
 	},
-	"OpeningTime": "2022-05-25T11:45:00"
+	"OpeningTime": ""
 },
 {
 	"Duration": 3,
