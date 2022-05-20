@@ -12,7 +12,7 @@
 		"RoadName": "1",
 		"MilePost": 1
 	},
-	"OpeningTime": "876876"
+	"OpeningTime": "2022-04-25T11:45:00"
 },
 {
 	"Duration": 1,
@@ -44,7 +44,7 @@
 		"RoadName": "2",
 		"MilePost": 2
 	},
-	"OpeningTime": "4564564"
+	"OpeningTime": "2022-05-25T11:45:00"
 },
 {
 	"Duration": 3,
@@ -60,7 +60,7 @@
 		"RoadName": "3",
 		"MilePost": 3
 	},
-	"OpeningTime": "54645654645"
+	"OpeningTime": "2022-06-25T11:45:00"
 },
 {
 	"Duration": 3,
@@ -76,7 +76,7 @@
 		"RoadName": "3",
 		"MilePost": 3
 	},
-	"OpeningTime": "34234234"
+	"OpeningTime": "2022-07-25T11:45:00"
 }
 
 ]
