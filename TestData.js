@@ -1,11 +1,11 @@
 [
   {
     "BridgeOpeningId": 471996,
-    "EventText": "1st Avenue South Bridge Update.",
-    "Status": "",
-    "OriginalBridgeOpenScheduleDate": "",
+    "EventText": "1st Avenue South Bridge Description...",
+    "Status": null,
+    "OriginalBridgeOpenScheduleDate": null,
     "Duration": 0,
-    "OpeningTime": "",
+    "OpeningTime": null,
     "BridgeLocation": {
       "Description": "1st Avenue South Bridge",
       "Direction": "B",
@@ -25,10 +25,10 @@
       "Latitude": 47.8584,
       "Longitude": -122.6216
     },
-    "Status": "Updated",
+    "Status": "Open to traffic",
     "OpeningTime": "2022-06-03T12:45:00",
     "OriginalBridgeOpenScheduleDate": "2022-06-03T14:00:00",
-    "Duration": 60,
-    "EventText": "On SR 104 the Hood Canal bridge, a boat traffic closure scheduled at 1:45 pm has been rescheduled for 12:45 pm on Friday June 3. Drivers can expect delays of up to 60 minutes."
+    "Duration": 0,
+    "EventText": "Hood Canal Bridge Open to Motor Vehicle Traffic until further notice."
   }
 ]
