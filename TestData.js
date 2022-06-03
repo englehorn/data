@@ -5,7 +5,7 @@
     "Status": "Updated",
     "OriginalBridgeOpenScheduleDate": "",
     "Duration": "",
-    "OpeningTime": "",
+    "OpeningTime": "2022-06-03T12:45:00",
     "BridgeLocation": {
       "Description": "1st Avenue South Bridge",
       "Direction": "B",
