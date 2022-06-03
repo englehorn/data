@@ -2,8 +2,8 @@
   {
     "BridgeOpeningId": 471996,
     "EventText": "1st Avenue South Bridge Description",
-    "Status": null,
-    "OriginalBridgeOpenScheduleDate": null,
+    "Status": "",
+    "OriginalBridgeOpenScheduleDate": "",
     "Duration": 0,
     "OpeningTime": "",
     "BridgeLocation": {
@@ -16,19 +16,19 @@
     }
   },
   {
-    "BridgeOpeningId": 52066,
-    "BridgeLocation": {
-      "Description": "Hood Canal",
-      "RoadName": "104        ",
-      "Direction": "Both",
-      "MilePost": 14.47,
-      "Latitude": 47.8584,
-      "Longitude": -122.6216
-    },
-    "Status": "Open to traffic",
-    "OpeningTime": "2022-06-03T13:16:00",
-    "OriginalBridgeOpenScheduleDate": null,
+    "BridgeOpeningId": 501706,
+    "EventText": "Interstate Bridge Description",
+    "Status": "",
+    "OriginalBridgeOpenScheduleDate": "",
     "Duration": 0,
-    "EventText": "Hood Canal Bridge Open to Motor Vehicle Traffic until further notice."
+    "OpeningTime": "",
+    "BridgeLocation": {
+      "Description": "Interstate Bridge",
+      "Direction": "E",
+      "RoadName": "012",
+      "Longitude": -123.387491845,
+      "Latitude": 47.005174076,
+      "MilePost": 20.99
+    }
   }
 ]
