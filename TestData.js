@@ -2,7 +2,7 @@
   {
     "BridgeOpeningId": 471996,
     "EventText": "The road to Artist Point is closed to vehicle traffic for the winter season just beyond the upper Mt. Baker Ski Area lodge at milepost 54.7.",
-    "Status": "",
+    "Status": "Updated",
     "OriginalBridgeOpenScheduleDate": "",
     "Duration": "",
     "OpeningTime": "",
