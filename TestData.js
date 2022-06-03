@@ -3,7 +3,7 @@
     "BridgeOpeningId": 471996,
     "EventText": "1st Avenue South Bridge Description",
     "Status": "",
-    "OriginalBridgeOpenScheduleDate": null,
+    "OriginalBridgeOpenScheduleDate": "",
     "Duration": 0,
     "OpeningTime": "",
     "BridgeLocation": {
@@ -19,7 +19,7 @@
     "BridgeOpeningId": 501706,
     "EventText": "Interstate Bridge Description",
     "Status": "",
-    "OriginalBridgeOpenScheduleDate": null,
+    "OriginalBridgeOpenScheduleDate": "",
     "Duration": 0,
     "OpeningTime": "",
     "BridgeLocation": {
