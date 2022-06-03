@@ -1,11 +1,11 @@
 [
   {
     "BridgeOpeningId": 471996,
-    "EventText": "1st Avenue South Bridge Description...",
-    "Status": null,
-    "OriginalBridgeOpenScheduleDate": null,
+    "EventText": "The road to Artist Point is closed to vehicle traffic for the winter season just beyond the upper Mt. Baker Ski Area lodge at milepost 54.7.",
+    "Status": "",
+    "OriginalBridgeOpenScheduleDate": "",
     "Duration": 0,
-    "OpeningTime": null,
+    "OpeningTime": "",
     "BridgeLocation": {
       "Description": "1st Avenue South Bridge",
       "Direction": "B",
@@ -26,8 +26,8 @@
       "Longitude": -122.6216
     },
     "Status": "Open to traffic",
-    "OpeningTime": "2022-06-03T12:45:00",
-    "OriginalBridgeOpenScheduleDate": "2022-06-03T14:00:00",
+    "OpeningTime": "2022-06-03T13:16:00",
+    "OriginalBridgeOpenScheduleDate": null,
     "Duration": 0,
     "EventText": "Hood Canal Bridge Open to Motor Vehicle Traffic until further notice."
   }
