@@ -1,8 +1,8 @@
 [
   {
     "BridgeOpeningId": 471996,
-    "EventText": "The road to Artist Point is closed to vehicle traffic for the winter season just beyond the upper Mt. Baker Ski Area lodge at milepost 54.7.",
-    "Status": "",
+    "EventText": "1st Avenue South Bridge Description",
+    "Status": null,
     "OriginalBridgeOpenScheduleDate": null,
     "Duration": 0,
     "OpeningTime": "",
