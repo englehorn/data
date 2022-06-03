@@ -1,5 +1,3 @@
-[
-  [
   {
     "BridgeOpeningId": 52066,
     "BridgeLocation": {
@@ -16,4 +14,3 @@
     "Duration": 60,
     "EventText": "On SR 104 the Hood Canal bridge, a boat traffic closure scheduled at 1:45 pm has been rescheduled for 12:45 pm on Friday June 3. Drivers can expect delays of up to 60 minutes."
   }
-]
