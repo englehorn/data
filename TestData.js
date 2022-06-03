@@ -1,4 +1,5 @@
 [
+  [
   {
     "BridgeOpeningId": 52066,
     "BridgeLocation": {
